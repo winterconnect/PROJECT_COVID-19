@@ -1,0 +1,1274 @@
+,patient_id,age,province,city,infection_case,infected_by,type,Unnamed: 0,PATIENT_ID,AGE,CITY,latest_confirmed,week_number
+0,1000000001,50s,Seoul,Gangseo-gu,overseas inflow,,,0,1000000001,50s,Gangseo-gu,2020-01-23,4
+1,1000000001,,Gyeonggi-do,Gimpo-si,,,airport,0,1000000001,50s,Gangseo-gu,2020-01-23,4
+2,1000000002,30s,Seoul,Jungnang-gu,overseas inflow,,store,6,1000000002,30s,Jungnang-gu,2020-01-30,5
+3,1000000002,30s,Seoul,Jungnang-gu,overseas inflow,,restaurant,6,1000000002,30s,Jungnang-gu,2020-01-30,5
+4,1000000002,30s,Seoul,Jungnang-gu,overseas inflow,,hospital,6,1000000002,30s,Jungnang-gu,2020-01-30,5
+5,1000000004,20s,Seoul,Mapo-gu,overseas inflow,,,4,1000000004,20s,Mapo-gu,2020-01-30,5
+6,1000000008,20s,Seoul,etc,overseas inflow,,,11,1000000008,20s,etc,2020-02-02,5
+7,1000000009,30s,Seoul,Songpa-gu,overseas inflow,,etc,16,1000000009,30s,Songpa-gu,2020-02-05,6
+8,1000000009,30s,Seoul,Songpa-gu,overseas inflow,,restaurant,16,1000000009,30s,Songpa-gu,2020-02-05,6
+9,1000000012,20s,Seoul,etc,overseas inflow,,,19,1000000012,20s,etc,2020-02-07,6
+10,1000000027,50s,Seoul,Gangseo-gu,overseas inflow,,,218,1000000027,50s,Gangseo-gu,2020-02-23,8
+11,1000000040,60s,Seoul,Gwanak-gu,overseas inflow,1500000002.0,,367,1000000040,60s,Gwanak-gu,2020-02-25,9
+12,1000000040,,Gyeongsangbuk-do,Cheongdo-gun,,,airport,367,1000000040,60s,Gwanak-gu,2020-02-25,9
+13,1000000043,20s,Seoul,Songpa-gu,overseas inflow,,public_transportation,483,1000000043,20s,Songpa-gu,2020-02-26,9
+14,1000000043,20s,Seoul,Songpa-gu,overseas inflow,,hospital,483,1000000043,20s,Songpa-gu,2020-02-26,9
+15,1000000043,,Incheon,Jung-gu,,,airport,483,1000000043,20s,Songpa-gu,2020-02-26,9
+16,1000000052,30s,Seoul,Songpa-gu,overseas inflow,,public_transportation,591,1000000052,30s,Songpa-gu,2020-02-27,9
+17,1000000052,30s,Seoul,Songpa-gu,overseas inflow,,hospital,591,1000000052,30s,Songpa-gu,2020-02-27,9
+18,1000000052,,Incheon,Jung-gu,,,airport,591,1000000052,30s,Songpa-gu,2020-02-27,9
+19,1000000075,30s,Seoul,Gwangjin-gu,overseas inflow,,school,585,1000000075,30s,Gwangjin-gu,2020-02-27,9
+20,1000000075,30s,Seoul,Gwangjin-gu,overseas inflow,,restaurant,585,1000000075,30s,Gwangjin-gu,2020-02-27,9
+21,1000000075,30s,Seoul,Gwangjin-gu,overseas inflow,,hospital,585,1000000075,30s,Gwangjin-gu,2020-02-27,9
+22,1000000075,30s,Seoul,Gwangjin-gu,overseas inflow,,store,585,1000000075,30s,Gwangjin-gu,2020-02-27,9
+23,1000000075,,Incheon,Jung-gu,,,airport,585,1000000075,30s,Gwangjin-gu,2020-02-27,9
+24,1000000082,60s,Seoul,Yeongdeungpo-gu,overseas inflow,,church,835,1000000082,60s,Yeongdeungpo-gu,2020-02-29,9
+25,1000000082,60s,Seoul,Yeongdeungpo-gu,overseas inflow,,etc,835,1000000082,60s,Yeongdeungpo-gu,2020-02-29,9
+26,1000000082,60s,Seoul,Yeongdeungpo-gu,overseas inflow,,hospital,835,1000000082,60s,Yeongdeungpo-gu,2020-02-29,9
+27,1000000082,60s,Seoul,Yeongdeungpo-gu,overseas inflow,,pharmacy,835,1000000082,60s,Yeongdeungpo-gu,2020-02-29,9
+28,1000000085,30s,Seoul,Gangnam-gu,overseas inflow,,real_estate_agency,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+29,1000000085,30s,Seoul,Gangnam-gu,overseas inflow,,beauty_salon,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+30,1000000085,30s,Seoul,Gangnam-gu,overseas inflow,,public_transportation,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+31,1000000085,30s,Seoul,Gangnam-gu,overseas inflow,,restaurant,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+32,1000000085,30s,Seoul,Gangnam-gu,overseas inflow,,cafe,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+33,1000000085,30s,Seoul,Gangnam-gu,overseas inflow,,etc,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+34,1000000085,30s,Seoul,Gangnam-gu,overseas inflow,,store,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+35,1000000085,30s,Seoul,Gangnam-gu,overseas inflow,,hospital,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+36,1000000085,,Incheon,Jung-gu,,,airport,588,1000000085,30s,Gangnam-gu,2020-02-27,9
+37,1000000103,20s,Seoul,Dongdaemun-gu,overseas inflow,,public_transportation,1276,1000000103,20s,Dongdaemun-gu,2020-03-04,10
+38,1000000103,20s,Seoul,Dongdaemun-gu,overseas inflow,,hospital,1276,1000000103,20s,Dongdaemun-gu,2020-03-04,10
+39,1000000103,20s,Seoul,Dongdaemun-gu,overseas inflow,,restaurant,1276,1000000103,20s,Dongdaemun-gu,2020-03-04,10
+40,1000000103,20s,Seoul,Dongdaemun-gu,overseas inflow,,store,1276,1000000103,20s,Dongdaemun-gu,2020-03-04,10
+41,1000000103,,Incheon,Jung-gu,,,airport,1276,1000000103,20s,Dongdaemun-gu,2020-03-04,10
+42,1000000116,30s,Seoul,Eunpyeong-gu,overseas inflow,,etc,1579,1000000116,30s,Eunpyeong-gu,2020-03-07,10
+43,1000000116,30s,Seoul,Eunpyeong-gu,overseas inflow,,store,1579,1000000116,30s,Eunpyeong-gu,2020-03-07,10
+44,1000000116,30s,Seoul,Eunpyeong-gu,overseas inflow,,gas_station,1579,1000000116,30s,Eunpyeong-gu,2020-03-07,10
+45,1000000116,30s,Seoul,Eunpyeong-gu,overseas inflow,,hospital,1579,1000000116,30s,Eunpyeong-gu,2020-03-07,10
+46,1000000116,,Incheon,Jung-gu,,,airport,1579,1000000116,30s,Eunpyeong-gu,2020-03-07,10
+47,1000000133,40s,Seoul,Gangdong-gu,overseas inflow,,church,1697,1000000133,40s,Gangdong-gu,2020-03-09,11
+48,1000000133,40s,Seoul,Gangdong-gu,overseas inflow,,hospital,1697,1000000133,40s,Gangdong-gu,2020-03-09,11
+49,1000000133,,Incheon,Jung-gu,,,airport,1697,1000000133,40s,Gangdong-gu,2020-03-09,11
+50,1000000191,30s,Seoul,Eunpyeong-gu,overseas inflow,1000000116.0,hospital,1824,1000000191,30s,Eunpyeong-gu,2020-03-10,11
+51,1000000216,30s,Seoul,Seongbuk-gu,overseas inflow,,,1867,1000000216,30s,Seongbuk-gu,2020-03-11,11
+52,1000000222,50s,Seoul,Gangbuk-gu,overseas inflow,,store,1939,1000000222,50s,Gangbuk-gu,2020-03-12,11
+53,1000000222,50s,Seoul,Gangbuk-gu,overseas inflow,,etc,1939,1000000222,50s,Gangbuk-gu,2020-03-12,11
+54,1000000222,50s,Seoul,Gangbuk-gu,overseas inflow,,restaurant,1939,1000000222,50s,Gangbuk-gu,2020-03-12,11
+55,1000000222,50s,Seoul,Gangbuk-gu,overseas inflow,,hospital,1939,1000000222,50s,Gangbuk-gu,2020-03-12,11
+56,1000000229,30s,Seoul,Yongsan-gu,overseas inflow,,public_transportation,1913,1000000229,30s,Yongsan-gu,2020-03-12,11
+57,1000000229,30s,Seoul,Yongsan-gu,overseas inflow,,store,1913,1000000229,30s,Yongsan-gu,2020-03-12,11
+58,1000000229,30s,Seoul,Yongsan-gu,overseas inflow,,restaurant,1913,1000000229,30s,Yongsan-gu,2020-03-12,11
+59,1000000229,30s,Seoul,Yongsan-gu,overseas inflow,,hospital,1913,1000000229,30s,Yongsan-gu,2020-03-12,11
+60,1000000229,30s,Seoul,Yongsan-gu,overseas inflow,,bank,1913,1000000229,30s,Yongsan-gu,2020-03-12,11
+61,1000000229,30s,Seoul,Yongsan-gu,overseas inflow,,etc,1913,1000000229,30s,Yongsan-gu,2020-03-12,11
+62,1000000229,,Incheon,Jung-gu,,,airport,1913,1000000229,30s,Yongsan-gu,2020-03-12,11
+63,1000000230,20s,Seoul,Gwanak-gu,overseas inflow,,gym,1914,1000000230,20s,Gwanak-gu,2020-03-12,11
+64,1000000230,20s,Seoul,Gwanak-gu,overseas inflow,,restaurant,1914,1000000230,20s,Gwanak-gu,2020-03-12,11
+65,1000000230,20s,Seoul,Gwanak-gu,overseas inflow,,bar,1914,1000000230,20s,Gwanak-gu,2020-03-12,11
+66,1000000230,20s,Seoul,Gwanak-gu,overseas inflow,,store,1914,1000000230,20s,Gwanak-gu,2020-03-12,11
+67,1000000230,20s,Seoul,Gwanak-gu,overseas inflow,,hospital,1914,1000000230,20s,Gwanak-gu,2020-03-12,11
+68,1000000236,20s,Seoul,Nowon-gu,overseas inflow,,etc,1944,1000000236,20s,Nowon-gu,2020-03-13,11
+69,1000000236,20s,Seoul,Nowon-gu,overseas inflow,,public_transportation,1944,1000000236,20s,Nowon-gu,2020-03-13,11
+70,1000000236,20s,Seoul,Nowon-gu,overseas inflow,,restaurant,1944,1000000236,20s,Nowon-gu,2020-03-13,11
+71,1000000236,20s,Seoul,Nowon-gu,overseas inflow,,hospital,1944,1000000236,20s,Nowon-gu,2020-03-13,11
+72,1000000237,20s,Seoul,Mapo-gu,overseas inflow,,airport,1945,1000000237,20s,Mapo-gu,2020-03-13,11
+73,1000000237,20s,Seoul,Mapo-gu,overseas inflow,,etc,1945,1000000237,20s,Mapo-gu,2020-03-13,11
+74,1000000237,20s,Seoul,Mapo-gu,overseas inflow,,hospital,1945,1000000237,20s,Mapo-gu,2020-03-13,11
+75,1000000237,20s,Seoul,Mapo-gu,overseas inflow,,pharmacy,1945,1000000237,20s,Mapo-gu,2020-03-13,11
+76,1000000237,,Incheon,Jung-gu,,,airport,1945,1000000237,20s,Mapo-gu,2020-03-13,11
+77,1000000247,50s,Seoul,Guro-gu,overseas inflow,,airport,1981,1000000247,50s,Guro-gu,2020-03-14,11
+78,1000000247,50s,Seoul,Guro-gu,overseas inflow,,hospital,1981,1000000247,50s,Guro-gu,2020-03-14,11
+79,1000000247,,Incheon,Namdong-gu,,,airport,1981,1000000247,50s,Guro-gu,2020-03-14,11
+80,1000000266,20s,Seoul,Yeongdeungpo-gu,overseas inflow,,hospital,2058,1000000266,20s,Yeongdeungpo-gu,2020-03-16,12
+81,1000000266,,Incheon,Jung-gu,,,airport,2058,1000000266,20s,Yeongdeungpo-gu,2020-03-16,12
+82,1000000269,20s,Seoul,Songpa-gu,overseas inflow,,hospital,2109,1000000269,20s,Songpa-gu,2020-03-17,12
+83,1000000269,,Incheon,Jung-gu,,,airport,2109,1000000269,20s,Songpa-gu,2020-03-17,12
+84,1000000269,,Incheon,Namdong-gu,,,airport,2109,1000000269,20s,Songpa-gu,2020-03-17,12
+85,1000000270,20s,Seoul,etc,overseas inflow,,,2099,1000000270,20s,etc,2020-03-17,12
+86,1000000270,,Incheon,Jung-gu,,,airport,2099,1000000270,20s,etc,2020-03-17,12
+87,1000000271,20s,Seoul,Mapo-gu,overseas inflow,,hospital,2142,1000000271,20s,Mapo-gu,2020-03-17,12
+88,1000000272,40s,Seoul,Gangnam-gu,overseas inflow,,store,2143,1000000272,40s,Gangnam-gu,2020-03-18,12
+89,1000000272,40s,Seoul,Gangnam-gu,overseas inflow,,etc,2143,1000000272,40s,Gangnam-gu,2020-03-18,12
+90,1000000272,40s,Seoul,Gangnam-gu,overseas inflow,,restaurant,2143,1000000272,40s,Gangnam-gu,2020-03-18,12
+91,1000000272,,Incheon,Jung-gu,,,airport,2143,1000000272,40s,Gangnam-gu,2020-03-18,12
+92,1000000277,30s,Seoul,Dongjak-gu,overseas inflow,,school,2148,1000000277,30s,Dongjak-gu,2020-03-18,12
+93,1000000277,30s,Seoul,Dongjak-gu,overseas inflow,,hospital,2148,1000000277,30s,Dongjak-gu,2020-03-18,12
+94,1000000277,,Incheon,Jung-gu,,,airport,2148,1000000277,30s,Dongjak-gu,2020-03-18,12
+95,1000000278,20s,Seoul,Nowon-gu,overseas inflow,,hospital,2149,1000000278,20s,Nowon-gu,2020-03-18,12
+96,1000000281,30s,Seoul,Dongjak-gu,overseas inflow,,school,2152,1000000281,30s,Dongjak-gu,2020-03-18,12
+97,1000000281,30s,Seoul,Dongjak-gu,overseas inflow,,hospital,2152,1000000281,30s,Dongjak-gu,2020-03-18,12
+98,1000000281,,Incheon,Jung-gu,,,airport,2152,1000000281,30s,Dongjak-gu,2020-03-18,12
+99,1000000282,30s,Seoul,Gwangjin-gu,overseas inflow,,airport,2153,1000000282,30s,Gwangjin-gu,2020-03-18,12
+100,1000000282,30s,Seoul,Gwangjin-gu,overseas inflow,,store,2153,1000000282,30s,Gwangjin-gu,2020-03-18,12
+101,1000000282,30s,Seoul,Gwangjin-gu,overseas inflow,,etc,2153,1000000282,30s,Gwangjin-gu,2020-03-18,12
+102,1000000289,20s,Seoul,Dongjak-gu,overseas inflow,,etc,2238,1000000289,20s,Dongjak-gu,2020-03-19,12
+103,1000000289,20s,Seoul,Dongjak-gu,overseas inflow,,hospital,2238,1000000289,20s,Dongjak-gu,2020-03-19,12
+104,1000000289,,Incheon,Jung-gu,,,airport,2238,1000000289,20s,Dongjak-gu,2020-03-19,12
+105,1000000290,30s,Seoul,Songpa-gu,overseas inflow,,etc,2239,1000000290,30s,Songpa-gu,2020-03-19,12
+106,1000000290,30s,Seoul,Songpa-gu,overseas inflow,,hospital,2239,1000000290,30s,Songpa-gu,2020-03-19,12
+107,1000000290,,Incheon,Jung-gu,,,airport,2239,1000000290,30s,Songpa-gu,2020-03-19,12
+108,1000000292,40s,Seoul,Seongdong-gu,overseas inflow,,hospital,2241,1000000292,40s,Seongdong-gu,2020-03-19,12
+109,1000000292,,Incheon,Jung-gu,,,airport,2241,1000000292,40s,Seongdong-gu,2020-03-19,12
+110,1000000294,60s,Seoul,Gangnam-gu,overseas inflow,,hospital,2243,1000000294,60s,Gangnam-gu,2020-03-19,12
+111,1000000294,,Incheon,Jung-gu,,,airport,2243,1000000294,60s,Gangnam-gu,2020-03-19,12
+112,1000000295,30s,Seoul,Songpa-gu,overseas inflow,,hospital,2244,1000000295,30s,Songpa-gu,2020-03-19,12
+113,1000000299,40s,Seoul,Nowon-gu,overseas inflow,,etc,2248,1000000299,40s,Nowon-gu,2020-03-19,12
+114,1000000299,40s,Seoul,Nowon-gu,overseas inflow,,pharmacy,2248,1000000299,40s,Nowon-gu,2020-03-19,12
+115,1000000302,10s,Seoul,Dongjak-gu,overseas inflow,,hospital,2271,1000000302,10s,Dongjak-gu,2020-03-20,12
+116,1000000303,70s,Seoul,Yeongdeungpo-gu,overseas inflow,,lodging,2272,1000000303,70s,Yeongdeungpo-gu,2020-03-20,12
+117,1000000303,70s,Seoul,Yeongdeungpo-gu,overseas inflow,,hospital,2272,1000000303,70s,Yeongdeungpo-gu,2020-03-20,12
+118,1000000303,,Incheon,Jung-gu,,,airport,2272,1000000303,70s,Yeongdeungpo-gu,2020-03-20,12
+119,1000000304,20s,Seoul,Seongdong-gu,overseas inflow,,,2273,1000000304,20s,Seongdong-gu,2020-03-20,12
+120,1000000304,,Incheon,Jung-gu,,,airport,2273,1000000304,20s,Seongdong-gu,2020-03-20,12
+121,1000000305,20s,Seoul,Jungnang-gu,overseas inflow,,etc,2274,1000000305,20s,Jungnang-gu,2020-03-20,12
+122,1000000305,20s,Seoul,Jungnang-gu,overseas inflow,,hospital,2274,1000000305,20s,Jungnang-gu,2020-03-20,12
+123,1000000305,20s,Seoul,Jungnang-gu,overseas inflow,,pharmacy,2274,1000000305,20s,Jungnang-gu,2020-03-20,12
+124,1000000305,20s,Seoul,Jungnang-gu,overseas inflow,,restaurant,2274,1000000305,20s,Jungnang-gu,2020-03-20,12
+125,1000000306,20s,Seoul,Eunpyeong-gu,overseas inflow,,public_transportation,2275,1000000306,20s,Eunpyeong-gu,2020-03-20,12
+126,1000000306,20s,Seoul,Eunpyeong-gu,overseas inflow,,etc,2275,1000000306,20s,Eunpyeong-gu,2020-03-20,12
+127,1000000306,20s,Seoul,Eunpyeong-gu,overseas inflow,,store,2275,1000000306,20s,Eunpyeong-gu,2020-03-20,12
+128,1000000306,20s,Seoul,Eunpyeong-gu,overseas inflow,,hospital,2275,1000000306,20s,Eunpyeong-gu,2020-03-20,12
+129,1000000306,,Incheon,Jung-gu,,,airport,2275,1000000306,20s,Eunpyeong-gu,2020-03-20,12
+130,1000000308,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2258,1000000308,20s,Seocho-gu,2020-03-20,12
+131,1000000309,40s,Seoul,Gangdong-gu,overseas inflow,,,2259,1000000309,40s,Gangdong-gu,2020-03-20,12
+132,1000000309,,Incheon,Jung-gu,,,airport,2259,1000000309,40s,Gangdong-gu,2020-03-20,12
+133,1000000313,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2263,1000000313,20s,Seocho-gu,2020-03-20,12
+134,1000000314,20s,Seoul,Gwangjin-gu,overseas inflow,,,2264,1000000314,20s,Gwangjin-gu,2020-03-20,12
+135,1000000317,30s,Seoul,Gangseo-gu,overseas inflow,,hospital,2322,1000000317,30s,Gangseo-gu,2020-03-21,12
+136,1000000317,,Incheon,Jung-gu,,,airport,2322,1000000317,30s,Gangseo-gu,2020-03-21,12
+137,1000000321,20s,Seoul,Yeongdeungpo-gu,overseas inflow,,store,2326,1000000321,20s,Yeongdeungpo-gu,2020-03-21,12
+138,1000000321,20s,Seoul,Yeongdeungpo-gu,overseas inflow,,pharmacy,2326,1000000321,20s,Yeongdeungpo-gu,2020-03-21,12
+139,1000000321,20s,Seoul,Yeongdeungpo-gu,overseas inflow,,hospital,2326,1000000321,20s,Yeongdeungpo-gu,2020-03-21,12
+140,1000000321,,Incheon,Jung-gu,,,airport,2326,1000000321,20s,Yeongdeungpo-gu,2020-03-21,12
+141,1000000322,20s,Seoul,Seodaemun-gu,overseas inflow,,restaurant,2327,1000000322,20s,Seodaemun-gu,2020-03-21,12
+142,1000000322,20s,Seoul,Seodaemun-gu,overseas inflow,,pharmacy,2327,1000000322,20s,Seodaemun-gu,2020-03-21,12
+143,1000000322,20s,Seoul,Seodaemun-gu,overseas inflow,,post_office,2327,1000000322,20s,Seodaemun-gu,2020-03-21,12
+144,1000000322,20s,Seoul,Seodaemun-gu,overseas inflow,,hospital,2327,1000000322,20s,Seodaemun-gu,2020-03-21,12
+145,1000000322,20s,Seoul,Seodaemun-gu,overseas inflow,,store,2327,1000000322,20s,Seodaemun-gu,2020-03-21,12
+146,1000000325,50s,Seoul,Seongbuk-gu,overseas inflow,,,2360,1000000325,50s,Seongbuk-gu,2020-03-22,12
+147,1000000326,20s,Seoul,Dobong-gu,overseas inflow,,hospital,2390,1000000326,20s,Dobong-gu,2020-03-22,12
+148,1000000326,,Incheon,Namdong-gu,,,airport,2390,1000000326,20s,Dobong-gu,2020-03-22,12
+149,1000000327,20s,Seoul,Gangseo-gu,overseas inflow,,hospital,2362,1000000327,20s,Gangseo-gu,2020-03-22,12
+150,1000000327,,Incheon,Jung-gu,,,airport,2362,1000000327,20s,Gangseo-gu,2020-03-22,12
+151,1000000332,40s,Seoul,Yongsan-gu,overseas inflow,,hospital,2413,1000000332,40s,Yongsan-gu,2020-03-23,13
+152,1000000332,,Incheon,Jung-gu,,,airport,2413,1000000332,40s,Yongsan-gu,2020-03-23,13
+153,1000000333,10s,Seoul,Jongno-gu,overseas inflow,,hospital,2393,1000000333,10s,Jongno-gu,2020-03-23,13
+154,1000000334,20s,Seoul,Gangnam-gu,overseas inflow,,restaurant,2394,1000000334,20s,Gangnam-gu,2020-03-23,13
+155,1000000334,20s,Seoul,Gangnam-gu,overseas inflow,,store,2394,1000000334,20s,Gangnam-gu,2020-03-23,13
+156,1000000334,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2394,1000000334,20s,Gangnam-gu,2020-03-23,13
+157,1000000334,,Incheon,Jung-gu,,,airport,2394,1000000334,20s,Gangnam-gu,2020-03-23,13
+158,1000000336,20s,Seoul,Gangdong-gu,overseas inflow,,hospital,2395,1000000336,20s,Gangdong-gu,2020-03-23,13
+159,1000000336,,Incheon,Jung-gu,,,airport,2395,1000000336,20s,Gangdong-gu,2020-03-23,13
+160,1000000337,20s,Seoul,Dongjak-gu,overseas inflow,,,2414,1000000337,20s,Dongjak-gu,2020-03-24,13
+161,1000000339,20s,Seoul,Jungnang-gu,overseas inflow,,public_transportation,2415,1000000339,20s,Jungnang-gu,2020-03-24,13
+162,1000000339,20s,Seoul,Jungnang-gu,overseas inflow,,store,2415,1000000339,20s,Jungnang-gu,2020-03-24,13
+163,1000000339,20s,Seoul,Jungnang-gu,overseas inflow,,hospital,2415,1000000339,20s,Jungnang-gu,2020-03-24,13
+164,1000000339,,Incheon,Jung-gu,,,airport,2415,1000000339,20s,Jungnang-gu,2020-03-24,13
+165,1000000340,20s,Seoul,Dobong-gu,overseas inflow,,hospital,2416,1000000340,20s,Dobong-gu,2020-03-24,13
+166,1000000343,30s,Seoul,Yongsan-gu,overseas inflow,,store,2419,1000000343,30s,Yongsan-gu,2020-03-24,13
+167,1000000343,30s,Seoul,Yongsan-gu,overseas inflow,,hospital,2419,1000000343,30s,Yongsan-gu,2020-03-24,13
+168,1000000343,30s,Seoul,Yongsan-gu,overseas inflow,,etc,2419,1000000343,30s,Yongsan-gu,2020-03-24,13
+169,1000000343,30s,Seoul,Yongsan-gu,overseas inflow,,cafe,2419,1000000343,30s,Yongsan-gu,2020-03-24,13
+170,1000000343,30s,Seoul,Yongsan-gu,overseas inflow,,restaurant,2419,1000000343,30s,Yongsan-gu,2020-03-24,13
+171,1000000343,,Incheon,Jung-gu,,,airport,2419,1000000343,30s,Yongsan-gu,2020-03-24,13
+172,1000000345,60s,Seoul,Seocho-gu,overseas inflow,,hospital,2421,1000000345,60s,Seocho-gu,2020-03-24,13
+173,1000000346,50s,Seoul,etc,overseas inflow,,,2422,1000000346,50s,etc,2020-03-24,13
+174,1000000348,20s,Seoul,Songpa-gu,overseas inflow,,airport,2396,1000000348,20s,Songpa-gu,2020-03-23,13
+175,1000000348,20s,Seoul,Songpa-gu,overseas inflow,,store,2396,1000000348,20s,Songpa-gu,2020-03-23,13
+176,1000000348,,Incheon,Jung-gu,,,airport,2396,1000000348,20s,Songpa-gu,2020-03-23,13
+177,1000000349,30s,Seoul,Dongdaemun-gu,overseas inflow,,hospital,2424,1000000349,30s,Dongdaemun-gu,2020-03-24,13
+178,1000000349,,Incheon,Jung-gu,,,airport,2424,1000000349,30s,Dongdaemun-gu,2020-03-24,13
+179,1000000350,30s,Seoul,Dongjak-gu,overseas inflow,,hospital,2477,1000000350,30s,Dongjak-gu,2020-03-25,13
+180,1000000350,,Incheon,Namdong-gu,,,airport,2477,1000000350,30s,Dongjak-gu,2020-03-25,13
+181,1000000350,,Incheon,Jung-gu,,,airport,2477,1000000350,30s,Dongjak-gu,2020-03-25,13
+182,1000000351,30s,Seoul,Dongjak-gu,overseas inflow,,hospital,2478,1000000351,30s,Dongjak-gu,2020-03-25,13
+183,1000000351,,Incheon,Namdong-gu,,,airport,2478,1000000351,30s,Dongjak-gu,2020-03-25,13
+184,1000000351,,Incheon,Jung-gu,,,airport,2478,1000000351,30s,Dongjak-gu,2020-03-25,13
+185,1000000352,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2479,1000000352,20s,Seocho-gu,2020-03-25,13
+186,1000000354,20s,Seoul,Seocho-gu,overseas inflow,,store,2468,1000000354,20s,Seocho-gu,2020-03-25,13
+187,1000000354,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2468,1000000354,20s,Seocho-gu,2020-03-25,13
+188,1000000355,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2514,1000000355,20s,Seocho-gu,2020-03-25,13
+189,1000000357,20s,Seoul,Gangnam-gu,overseas inflow,,store,2471,1000000357,20s,Gangnam-gu,2020-03-25,13
+190,1000000357,20s,Seoul,Gangnam-gu,overseas inflow,,beauty_salon,2471,1000000357,20s,Gangnam-gu,2020-03-25,13
+191,1000000357,20s,Seoul,Gangnam-gu,overseas inflow,,airport,2471,1000000357,20s,Gangnam-gu,2020-03-25,13
+192,1000000357,20s,Seoul,Gangnam-gu,overseas inflow,,public_transportation,2471,1000000357,20s,Gangnam-gu,2020-03-25,13
+193,1000000357,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2471,1000000357,20s,Gangnam-gu,2020-03-25,13
+194,1000000357,,Seoul,Gangseo-gu,,,airport,2471,1000000357,20s,Gangnam-gu,2020-03-25,13
+195,1000000357,,Jeju-do,Jeju-si,,,airport,2471,1000000357,20s,Gangnam-gu,2020-03-25,13
+196,1000000357,,Gyeonggi-do,Gimpo-si,,,airport,2471,1000000357,20s,Gangnam-gu,2020-03-25,13
+197,1000000358,20s,Seoul,etc,overseas inflow,,,2472,1000000358,20s,etc,2020-03-25,13
+198,1000000359,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2473,1000000359,20s,Gangnam-gu,2020-03-25,13
+199,1000000360,10s,Seoul,Gangnam-gu,overseas inflow,,public_transportation,2474,1000000360,10s,Gangnam-gu,2020-03-25,13
+200,1000000360,10s,Seoul,Gangnam-gu,overseas inflow,,hospital,2474,1000000360,10s,Gangnam-gu,2020-03-25,13
+201,1000000360,,Incheon,Jung-gu,,,airport,2474,1000000360,10s,Gangnam-gu,2020-03-25,13
+202,1000000361,20s,Seoul,Jungnang-gu,overseas inflow,,,2515,1000000361,20s,Jungnang-gu,2020-03-26,13
+203,1000000362,20s,Seoul,Seongbuk-gu,overseas inflow,,,2563,1000000362,20s,Seongbuk-gu,2020-03-26,13
+204,1000000362,,Incheon,Jung-gu,,,airport,2563,1000000362,20s,Seongbuk-gu,2020-03-26,13
+205,1000000366,50s,Seoul,Guro-gu,overseas inflow,,etc,2520,1000000366,50s,Guro-gu,2020-03-26,13
+206,1000000367,20s,Seoul,Gangnam-gu,overseas inflow,,cafe,2521,1000000367,20s,Gangnam-gu,2020-03-26,13
+207,1000000367,20s,Seoul,Gangnam-gu,overseas inflow,,etc,2521,1000000367,20s,Gangnam-gu,2020-03-26,13
+208,1000000367,20s,Seoul,Gangnam-gu,overseas inflow,,pharmacy,2521,1000000367,20s,Gangnam-gu,2020-03-26,13
+209,1000000367,20s,Seoul,Gangnam-gu,overseas inflow,,restaurant,2521,1000000367,20s,Gangnam-gu,2020-03-26,13
+210,1000000367,20s,Seoul,Gangnam-gu,overseas inflow,,park,2521,1000000367,20s,Gangnam-gu,2020-03-26,13
+211,1000000367,20s,Seoul,Gangnam-gu,overseas inflow,,store,2521,1000000367,20s,Gangnam-gu,2020-03-26,13
+212,1000000367,20s,Seoul,Gangnam-gu,overseas inflow,,public_transportation,2521,1000000367,20s,Gangnam-gu,2020-03-26,13
+213,1000000367,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2521,1000000367,20s,Gangnam-gu,2020-03-26,13
+214,1000000368,60s,Seoul,Gangnam-gu,overseas inflow,,lodging,2522,1000000368,60s,Gangnam-gu,2020-03-26,13
+215,1000000368,60s,Seoul,Gangnam-gu,overseas inflow,,hospital,2522,1000000368,60s,Gangnam-gu,2020-03-26,13
+216,1000000368,,Incheon,Jung-gu,,,airport,2522,1000000368,60s,Gangnam-gu,2020-03-26,13
+217,1000000369,20s,Seoul,Songpa-gu,overseas inflow,,etc,2523,1000000369,20s,Songpa-gu,2020-03-26,13
+218,1000000369,20s,Seoul,Songpa-gu,overseas inflow,,hospital,2523,1000000369,20s,Songpa-gu,2020-03-26,13
+219,1000000369,,Incheon,Jung-gu,,,airport,2523,1000000369,20s,Songpa-gu,2020-03-26,13
+220,1000000370,40s,Seoul,Seocho-gu,overseas inflow,,hospital,2524,1000000370,40s,Seocho-gu,2020-03-26,13
+221,1000000371,30s,Seoul,Songpa-gu,overseas inflow,,store,2525,1000000371,30s,Songpa-gu,2020-03-26,13
+222,1000000371,30s,Seoul,Songpa-gu,overseas inflow,,public_transportation,2525,1000000371,30s,Songpa-gu,2020-03-26,13
+223,1000000371,30s,Seoul,Songpa-gu,overseas inflow,,hospital,2525,1000000371,30s,Songpa-gu,2020-03-26,13
+224,1000000371,,Incheon,Jung-gu,,,airport,2525,1000000371,30s,Songpa-gu,2020-03-26,13
+225,1000000373,50s,Seoul,Gangnam-gu,contact with patient,1000000357.0,airport,2526,1000000373,50s,Gangnam-gu,2020-03-26,13
+226,1000000373,,Incheon,Jung-gu,,,airport,2526,1000000373,50s,Gangnam-gu,2020-03-26,13
+227,1000000373,,Seoul,Gangseo-gu,,,airport,2526,1000000373,50s,Gangnam-gu,2020-03-26,13
+228,1000000373,,Jeju-do,Jeju-si,,,airport,2526,1000000373,50s,Gangnam-gu,2020-03-26,13
+229,1000000373,,Gyeonggi-do,Gimpo-si,,,airport,2526,1000000373,50s,Gangnam-gu,2020-03-26,13
+230,1000000374,20s,Seoul,Gangnam-gu,overseas inflow,,restaurant,2527,1000000374,20s,Gangnam-gu,2020-03-26,13
+231,1000000374,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2527,1000000374,20s,Gangnam-gu,2020-03-26,13
+232,1000000374,,Incheon,Namdong-gu,,,airport,2527,1000000374,20s,Gangnam-gu,2020-03-26,13
+233,1000000375,20s,Seoul,Gangdong-gu,overseas inflow,,,2528,1000000375,20s,Gangdong-gu,2020-03-26,13
+234,1000000375,,Incheon,Namdong-gu,,,airport,2528,1000000375,20s,Gangdong-gu,2020-03-26,13
+235,1000000376,20s,Seoul,Mapo-gu,overseas inflow,,,2564,1000000376,20s,Mapo-gu,2020-03-27,13
+236,1000000376,,Incheon,Jung-gu,,,airport,2564,1000000376,20s,Mapo-gu,2020-03-27,13
+237,1000000378,50s,Seoul,Dobong-gu,overseas inflow,,restaurant,2609,1000000378,50s,Dobong-gu,2020-03-27,13
+238,1000000378,50s,Seoul,Dobong-gu,overseas inflow,,hospital,2609,1000000378,50s,Dobong-gu,2020-03-27,13
+239,1000000378,,Incheon,Jung-gu,,,airport,2609,1000000378,50s,Dobong-gu,2020-03-27,13
+240,1000000380,40s,Seoul,Jungnang-gu,overseas inflow,,etc,2566,1000000380,40s,Jungnang-gu,2020-03-27,13
+241,1000000380,40s,Seoul,Jungnang-gu,overseas inflow,,hospital,2566,1000000380,40s,Jungnang-gu,2020-03-27,13
+242,1000000382,30s,Seoul,Jung-gu,overseas inflow,,hospital,2568,1000000382,30s,Jung-gu,2020-03-27,13
+243,1000000382,,Incheon,Jung-gu,,,airport,2568,1000000382,30s,Jung-gu,2020-03-27,13
+244,1000000383,20s,Seoul,Seongbuk-gu,overseas inflow,,hospital,2569,1000000383,20s,Seongbuk-gu,2020-03-27,13
+245,1000000383,,Incheon,Jung-gu,,,airport,2569,1000000383,20s,Seongbuk-gu,2020-03-27,13
+246,1000000384,20s,Seoul,Songpa-gu,overseas inflow,,hospital,2570,1000000384,20s,Songpa-gu,2020-03-27,13
+247,1000000384,,Incheon,Jung-gu,,,airport,2570,1000000384,20s,Songpa-gu,2020-03-27,13
+248,1000000387,10s,Seoul,Gangnam-gu,overseas inflow,,hospital,2573,1000000387,10s,Gangnam-gu,2020-03-27,13
+249,1000000387,,Incheon,Jung-gu,,,airport,2573,1000000387,10s,Gangnam-gu,2020-03-27,13
+250,1000000388,20s,Seoul,Guro-gu,overseas inflow,,,2574,1000000388,20s,Guro-gu,2020-03-27,13
+251,1000000389,50s,Seoul,Gangnam-gu,overseas inflow,,restaurant,2575,1000000389,50s,Gangnam-gu,2020-03-27,13
+252,1000000389,50s,Seoul,Gangnam-gu,overseas inflow,,hospital,2575,1000000389,50s,Gangnam-gu,2020-03-27,13
+253,1000000389,,Incheon,Jung-gu,,,airport,2575,1000000389,50s,Gangnam-gu,2020-03-27,13
+254,1000000390,10s,Seoul,Gangnam-gu,overseas inflow,,,2476,1000000390,10s,Gangnam-gu,2020-03-25,13
+255,1000000394,40s,Seoul,etc,overseas inflow,,,2621,1000000394,40s,etc,2020-03-28,13
+256,1000000395,40s,Seoul,etc,overseas inflow,,,2622,1000000395,40s,etc,2020-03-28,13
+257,1000000396,20s,Seoul,Gwanak-gu,overseas inflow,,store,2623,1000000396,20s,Gwanak-gu,2020-03-28,13
+258,1000000396,20s,Seoul,Gwanak-gu,overseas inflow,,hospital,2623,1000000396,20s,Gwanak-gu,2020-03-28,13
+259,1000000397,20s,Seoul,Seocho-gu,overseas inflow,,restaurant,2624,1000000397,20s,Seocho-gu,2020-03-28,13
+260,1000000397,20s,Seoul,Seocho-gu,overseas inflow,,cafe,2624,1000000397,20s,Seocho-gu,2020-03-28,13
+261,1000000397,20s,Seoul,Seocho-gu,overseas inflow,,store,2624,1000000397,20s,Seocho-gu,2020-03-28,13
+262,1000000397,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2624,1000000397,20s,Seocho-gu,2020-03-28,13
+263,1000000398,20s,Seoul,Jung-gu,overseas inflow,,hospital,2625,1000000398,20s,Jung-gu,2020-03-28,13
+264,1000000398,,Incheon,Namdong-gu,,,airport,2625,1000000398,20s,Jung-gu,2020-03-28,13
+265,1000000400,20s,Seoul,Songpa-gu,overseas inflow,,etc,2627,1000000400,20s,Songpa-gu,2020-03-28,13
+266,1000000400,20s,Seoul,Songpa-gu,overseas inflow,,hospital,2627,1000000400,20s,Songpa-gu,2020-03-28,13
+267,1000000400,,Incheon,Jung-gu,,,airport,2627,1000000400,20s,Songpa-gu,2020-03-28,13
+268,1000000401,40s,Seoul,Gangnam-gu,overseas inflow,,hospital,2628,1000000401,40s,Gangnam-gu,2020-03-28,13
+269,1000000401,,Incheon,Jung-gu,,,airport,2628,1000000401,40s,Gangnam-gu,2020-03-28,13
+270,1000000402,20s,Seoul,Seocho-gu,overseas inflow,,,2629,1000000402,20s,Seocho-gu,2020-03-28,13
+271,1000000404,10s,Seoul,Gangnam-gu,overseas inflow,,hospital,2631,1000000404,10s,Gangnam-gu,2020-03-28,13
+272,1000000404,,Incheon,Jung-gu,,,airport,2631,1000000404,10s,Gangnam-gu,2020-03-28,13
+273,1000000406,10s,Seoul,Gangnam-gu,overseas inflow,,hospital,2613,1000000406,10s,Gangnam-gu,2020-03-28,13
+274,1000000406,10s,Seoul,Gangnam-gu,overseas inflow,,store,2613,1000000406,10s,Gangnam-gu,2020-03-28,13
+275,1000000406,,Incheon,Jung-gu,,,airport,2613,1000000406,10s,Gangnam-gu,2020-03-28,13
+276,1000000407,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2614,1000000407,20s,Gangnam-gu,2020-03-28,13
+277,1000000407,,Incheon,Jung-gu,,,airport,2614,1000000407,20s,Gangnam-gu,2020-03-28,13
+278,1000000408,20s,Seoul,Yangcheon-gu,overseas inflow,,,2615,1000000408,20s,Yangcheon-gu,2020-03-28,13
+279,1000000409,40s,Seoul,Seocho-gu,overseas inflow,,,2616,1000000409,40s,Seocho-gu,2020-03-28,13
+280,1000000409,,Incheon,Jung-gu,,,airport,2616,1000000409,40s,Seocho-gu,2020-03-28,13
+281,1000000410,20s,Seoul,etc,overseas inflow,,,2617,1000000410,20s,etc,2020-03-28,13
+282,1000000410,,Incheon,Jung-gu,,,airport,2617,1000000410,20s,etc,2020-03-28,13
+283,1000000413,20s,Seoul,etc,overseas inflow,,,2681,1000000413,20s,etc,2020-03-29,13
+284,1000000413,,Incheon,Jung-gu,,,airport,2681,1000000413,20s,etc,2020-03-29,13
+285,1000000417,20s,Seoul,Mapo-gu,overseas inflow,,etc,2685,1000000417,20s,Mapo-gu,2020-03-29,13
+286,1000000417,20s,Seoul,Mapo-gu,overseas inflow,,store,2685,1000000417,20s,Mapo-gu,2020-03-29,13
+287,1000000417,20s,Seoul,Mapo-gu,overseas inflow,,restaurant,2685,1000000417,20s,Mapo-gu,2020-03-29,13
+288,1000000417,20s,Seoul,Mapo-gu,overseas inflow,,hospital,2685,1000000417,20s,Mapo-gu,2020-03-29,13
+289,1000000417,20s,Seoul,Mapo-gu,overseas inflow,,pharmacy,2685,1000000417,20s,Mapo-gu,2020-03-29,13
+290,1000000417,20s,Seoul,Mapo-gu,overseas inflow,,post_office,2685,1000000417,20s,Mapo-gu,2020-03-29,13
+291,1000000417,20s,Seoul,Mapo-gu,overseas inflow,,cafe,2685,1000000417,20s,Mapo-gu,2020-03-29,13
+292,1000000417,,Incheon,Jung-gu,,,airport,2685,1000000417,20s,Mapo-gu,2020-03-29,13
+293,1000000419,20s,Seoul,Seocho-gu,overseas inflow,,,2687,1000000419,20s,Seocho-gu,2020-03-29,13
+294,1000000420,50s,Seoul,Gangnam-gu,overseas inflow,,hospital,2688,1000000420,50s,Gangnam-gu,2020-03-29,13
+295,1000000420,,Incheon,Jung-gu,,,airport,2688,1000000420,50s,Gangnam-gu,2020-03-29,13
+296,1000000421,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2689,1000000421,20s,Gangnam-gu,2020-03-29,13
+297,1000000421,,Incheon,Jung-gu,,,airport,2689,1000000421,20s,Gangnam-gu,2020-03-29,13
+298,1000000423,10s,Seoul,Gangnam-gu,overseas inflow,,hospital,2691,1000000423,10s,Gangnam-gu,2020-03-29,13
+299,1000000423,,Incheon,Jung-gu,,,airport,2691,1000000423,10s,Gangnam-gu,2020-03-29,13
+300,1000000424,30s,Seoul,Songpa-gu,overseas inflow,,etc,2692,1000000424,30s,Songpa-gu,2020-03-29,13
+301,1000000424,30s,Seoul,Songpa-gu,overseas inflow,,pharmacy,2692,1000000424,30s,Songpa-gu,2020-03-29,13
+302,1000000424,30s,Seoul,Songpa-gu,overseas inflow,,cafe,2692,1000000424,30s,Songpa-gu,2020-03-29,13
+303,1000000424,30s,Seoul,Songpa-gu,overseas inflow,,store,2692,1000000424,30s,Songpa-gu,2020-03-29,13
+304,1000000424,30s,Seoul,Songpa-gu,overseas inflow,,hospital,2692,1000000424,30s,Songpa-gu,2020-03-29,13
+305,1000000424,,Incheon,Jung-gu,,,airport,2692,1000000424,30s,Songpa-gu,2020-03-29,13
+306,1000000425,30s,Seoul,Seodaemun-gu,overseas inflow,,hospital,2693,1000000425,30s,Seodaemun-gu,2020-03-29,13
+307,1000000425,,Incheon,Namdong-gu,,,airport,2693,1000000425,30s,Seodaemun-gu,2020-03-29,13
+308,1000000426,30s,Seoul,Gwangjin-gu,overseas inflow,,,2694,1000000426,30s,Gwangjin-gu,2020-03-29,13
+309,1000000441,10s,Seoul,Songpa-gu,overseas inflow,,cafe,2765,1000000441,10s,Songpa-gu,2020-03-30,14
+310,1000000441,10s,Seoul,Songpa-gu,overseas inflow,,hospital,2765,1000000441,10s,Songpa-gu,2020-03-30,14
+311,1000000443,50s,Seoul,Seocho-gu,overseas inflow,,pharmacy,2767,1000000443,50s,Seocho-gu,2020-03-30,14
+312,1000000443,50s,Seoul,Seocho-gu,overseas inflow,,etc,2767,1000000443,50s,Seocho-gu,2020-03-30,14
+313,1000000443,50s,Seoul,Seocho-gu,overseas inflow,,store,2767,1000000443,50s,Seocho-gu,2020-03-30,14
+314,1000000443,50s,Seoul,Seocho-gu,overseas inflow,,hospital,2767,1000000443,50s,Seocho-gu,2020-03-30,14
+315,1000000445,20s,Seoul,Yongsan-gu,overseas inflow,,hospital,2769,1000000445,20s,Yongsan-gu,2020-03-30,14
+316,1000000446,30s,Seoul,Dongjak-gu,overseas inflow,,etc,2770,1000000446,30s,Dongjak-gu,2020-03-30,14
+317,1000000446,30s,Seoul,Dongjak-gu,overseas inflow,,hospital,2770,1000000446,30s,Dongjak-gu,2020-03-30,14
+318,1000000446,,Incheon,Jung-gu,,,airport,2770,1000000446,30s,Dongjak-gu,2020-03-30,14
+319,1000000448,20s,Seoul,Yongsan-gu,overseas inflow,,,2772,1000000448,20s,Yongsan-gu,2020-03-30,14
+320,1000000450,20s,Seoul,etc,overseas inflow,,,2774,1000000450,20s,etc,2020-03-30,14
+321,1000000452,20s,Seoul,Gangdong-gu,overseas inflow,,hospital,2775,1000000452,20s,Gangdong-gu,2020-03-30,14
+322,1000000452,,Incheon,Jung-gu,,,airport,2775,1000000452,20s,Gangdong-gu,2020-03-30,14
+323,1000000454,40s,Seoul,Mapo-gu,overseas inflow,,airport,2778,1000000454,40s,Mapo-gu,2020-03-31,14
+324,1000000454,40s,Seoul,Mapo-gu,overseas inflow,,etc,2778,1000000454,40s,Mapo-gu,2020-03-31,14
+325,1000000454,40s,Seoul,Mapo-gu,overseas inflow,,hospital,2778,1000000454,40s,Mapo-gu,2020-03-31,14
+326,1000000454,,Incheon,Jung-gu,,,airport,2778,1000000454,40s,Mapo-gu,2020-03-31,14
+327,1000000455,30s,Seoul,Yeongdeungpo-gu,overseas inflow,,,2779,1000000455,30s,Yeongdeungpo-gu,2020-03-31,14
+328,1000000456,20s,Seoul,Jongno-gu,overseas inflow,,hospital,2780,1000000456,20s,Jongno-gu,2020-03-31,14
+329,1000000456,20s,Seoul,Jongno-gu,overseas inflow,,restaurant,2780,1000000456,20s,Jongno-gu,2020-03-31,14
+330,1000000458,30s,Seoul,Gangnam-gu,overseas inflow,,restaurant,2782,1000000458,30s,Gangnam-gu,2020-03-31,14
+331,1000000458,30s,Seoul,Gangnam-gu,overseas inflow,,hospital,2782,1000000458,30s,Gangnam-gu,2020-03-31,14
+332,1000000459,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2783,1000000459,20s,Gangnam-gu,2020-03-31,14
+333,1000000459,,Incheon,Jung-gu,,,airport,2783,1000000459,20s,Gangnam-gu,2020-03-31,14
+334,1000000460,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2784,1000000460,20s,Gangnam-gu,2020-03-31,14
+335,1000000460,,Incheon,Jung-gu,,,airport,2784,1000000460,20s,Gangnam-gu,2020-03-31,14
+336,1000000466,20s,Seoul,Songpa-gu,overseas inflow,,etc,2790,1000000466,20s,Songpa-gu,2020-03-31,14
+337,1000000466,20s,Seoul,Songpa-gu,overseas inflow,,hospital,2790,1000000466,20s,Songpa-gu,2020-03-31,14
+338,1000000466,,Incheon,Jung-gu,,,airport,2790,1000000466,20s,Songpa-gu,2020-03-31,14
+339,1000000467,20s,Seoul,Songpa-gu,overseas inflow,,etc,2791,1000000467,20s,Songpa-gu,2020-03-31,14
+340,1000000467,20s,Seoul,Songpa-gu,overseas inflow,,hospital,2791,1000000467,20s,Songpa-gu,2020-03-31,14
+341,1000000467,,Incheon,Jung-gu,,,airport,2791,1000000467,20s,Songpa-gu,2020-03-31,14
+342,1000000468,20s,Seoul,Mapo-gu,overseas inflow,,etc,2792,1000000468,20s,Mapo-gu,2020-03-31,14
+343,1000000468,,Incheon,Namdong-gu,,,airport,2792,1000000468,20s,Mapo-gu,2020-03-31,14
+344,1000000469,20s,Seoul,Gwanak-gu,overseas inflow,,,2793,1000000469,20s,Gwanak-gu,2020-03-31,14
+345,1000000470,20s,Seoul,Seocho-gu,overseas inflow,,,2794,1000000470,20s,Seocho-gu,2020-03-31,14
+346,1000000475,20s,Seoul,Gwangjin-gu,overseas inflow,,hospital,2798,1000000475,20s,Gwangjin-gu,2020-03-31,14
+347,1000000477,30s,Seoul,Dongdaemun-gu,overseas inflow,,hospital,2885,1000000477,30s,Dongdaemun-gu,2020-04-01,14
+348,1000000478,40s,Seoul,Mapo-gu,overseas inflow,,etc,2886,1000000478,40s,Mapo-gu,2020-04-01,14
+349,1000000478,40s,Seoul,Mapo-gu,overseas inflow,,hospital,2886,1000000478,40s,Mapo-gu,2020-04-01,14
+350,1000000478,40s,Seoul,Mapo-gu,overseas inflow,,store,2886,1000000478,40s,Mapo-gu,2020-04-01,14
+351,1000000479,30s,Seoul,etc,overseas inflow,,,2887,1000000479,30s,etc,2020-04-01,14
+352,1000000480,30s,Seoul,etc,overseas inflow,,,2888,1000000480,30s,etc,2020-04-01,14
+353,1000000481,0s,Seoul,etc,overseas inflow,,,2889,1000000481,0s,etc,2020-04-01,14
+354,1000000482,30s,Seoul,Dongjak-gu,overseas inflow,,hospital,2890,1000000482,30s,Dongjak-gu,2020-04-01,14
+355,1000000484,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2892,1000000484,20s,Seocho-gu,2020-04-01,14
+356,1000000485,30s,Seoul,etc,overseas inflow,,,2893,1000000485,30s,etc,2020-04-01,14
+357,1000000485,,Incheon,Jung-gu,,,airport,2893,1000000485,30s,etc,2020-04-01,14
+358,1000000486,20s,Seoul,Gwangjin-gu,overseas inflow,,,2894,1000000486,20s,Gwangjin-gu,2020-04-01,14
+359,1000000487,10s,Seoul,etc,overseas inflow,,,2895,1000000487,10s,etc,2020-04-01,14
+360,1000000489,0s,Seoul,etc,overseas inflow,,,2897,1000000489,0s,etc,2020-04-01,14
+361,1000000490,20s,Seoul,Songpa-gu,overseas inflow,,etc,2898,1000000490,20s,Songpa-gu,2020-04-01,14
+362,1000000490,20s,Seoul,Songpa-gu,overseas inflow,,hospital,2898,1000000490,20s,Songpa-gu,2020-04-01,14
+363,1000000490,,Incheon,Jung-gu,,,airport,2898,1000000490,20s,Songpa-gu,2020-04-01,14
+364,1000000492,20s,Seoul,Jungnang-gu,overseas inflow,,hospital,2941,1000000492,20s,Jungnang-gu,2020-04-02,14
+365,1000000492,,Incheon,Jung-gu,,,airport,2941,1000000492,20s,Jungnang-gu,2020-04-02,14
+366,1000000493,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2942,1000000493,20s,Seocho-gu,2020-04-02,14
+367,1000000495,30s,Seoul,Gwanak-gu,overseas inflow,,,2944,1000000495,30s,Gwanak-gu,2020-04-02,14
+368,1000000496,40s,Seoul,Yongsan-gu,overseas inflow,,etc,2945,1000000496,40s,Yongsan-gu,2020-04-02,14
+369,1000000496,40s,Seoul,Yongsan-gu,overseas inflow,,hospital,2945,1000000496,40s,Yongsan-gu,2020-04-02,14
+370,1000000497,10s,Seoul,Yongsan-gu,overseas inflow,,etc,2946,1000000497,10s,Yongsan-gu,2020-04-02,14
+371,1000000497,10s,Seoul,Yongsan-gu,overseas inflow,,hospital,2946,1000000497,10s,Yongsan-gu,2020-04-02,14
+372,1000000500,60s,Seoul,Eunpyeong-gu,overseas inflow,,hospital,2948,1000000500,60s,Eunpyeong-gu,2020-04-02,14
+373,1000000501,70s,Seoul,Eunpyeong-gu,overseas inflow,,hospital,2949,1000000501,70s,Eunpyeong-gu,2020-04-02,14
+374,1000000502,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2950,1000000502,20s,Gangnam-gu,2020-04-02,14
+375,1000000502,,Incheon,Namdong-gu,,,airport,2950,1000000502,20s,Gangnam-gu,2020-04-02,14
+376,1000000504,20s,Seoul,etc,overseas inflow,,,2952,1000000504,20s,etc,2020-04-02,14
+377,1000000505,30s,Seoul,Nowon-gu,overseas inflow,,hospital,2953,1000000505,30s,Nowon-gu,2020-04-02,14
+378,1000000506,20s,Seoul,Gwanak-gu,overseas inflow,,store,2954,1000000506,20s,Gwanak-gu,2020-04-02,14
+379,1000000506,20s,Seoul,Gwanak-gu,overseas inflow,,hospital,2954,1000000506,20s,Gwanak-gu,2020-04-02,14
+380,1000000507,20s,Seoul,Yongsan-gu,overseas inflow,,airport,2733,1000000507,20s,Yongsan-gu,2020-03-30,14
+381,1000000507,20s,Seoul,Yongsan-gu,overseas inflow,,hospital,2733,1000000507,20s,Yongsan-gu,2020-03-30,14
+382,1000000508,20s,Seoul,Gwanak-gu,overseas inflow,,,2800,1000000508,20s,Gwanak-gu,2020-03-31,14
+383,1000000509,80s,Seoul,Seodaemun-gu,overseas inflow,,,2900,1000000509,80s,Seodaemun-gu,2020-04-01,14
+384,1000000509,,Incheon,Jung-gu,,,airport,2900,1000000509,80s,Seodaemun-gu,2020-04-01,14
+385,1000000511,30s,Seoul,Seocho-gu,overseas inflow,,hospital,2956,1000000511,30s,Seocho-gu,2020-04-02,14
+386,1000000514,30s,Seoul,Dobong-gu,overseas inflow,,etc,2988,1000000514,30s,Dobong-gu,2020-04-03,14
+387,1000000514,30s,Seoul,Dobong-gu,overseas inflow,,cafe,2988,1000000514,30s,Dobong-gu,2020-04-03,14
+388,1000000514,30s,Seoul,Dobong-gu,overseas inflow,,hospital,2988,1000000514,30s,Dobong-gu,2020-04-03,14
+389,1000000514,,Incheon,Jung-gu,,,airport,2988,1000000514,30s,Dobong-gu,2020-04-03,14
+390,1000000515,30s,Seoul,Dongjak-gu,overseas inflow,,hospital,2989,1000000515,30s,Dongjak-gu,2020-04-03,14
+391,1000000515,30s,Seoul,Dongjak-gu,overseas inflow,,etc,2989,1000000515,30s,Dongjak-gu,2020-04-03,14
+392,1000000516,30s,Seoul,Dongjak-gu,overseas inflow,,hospital,2990,1000000516,30s,Dongjak-gu,2020-04-03,14
+393,1000000516,30s,Seoul,Dongjak-gu,overseas inflow,,etc,2990,1000000516,30s,Dongjak-gu,2020-04-03,14
+394,1000000519,30s,Seoul,Songpa-gu,overseas inflow,,airport,2993,1000000519,30s,Songpa-gu,2020-04-03,14
+395,1000000519,30s,Seoul,Songpa-gu,overseas inflow,,etc,2993,1000000519,30s,Songpa-gu,2020-04-03,14
+396,1000000519,30s,Seoul,Songpa-gu,overseas inflow,,hospital,2993,1000000519,30s,Songpa-gu,2020-04-03,14
+397,1000000519,,Incheon,Jung-gu,,,airport,2993,1000000519,30s,Songpa-gu,2020-04-03,14
+398,1000000520,20s,Seoul,Seocho-gu,overseas inflow,,hospital,2994,1000000520,20s,Seocho-gu,2020-04-03,14
+399,1000000521,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2995,1000000521,20s,Gangnam-gu,2020-04-03,14
+400,1000000521,20s,Seoul,Gangnam-gu,overseas inflow,,store,2995,1000000521,20s,Gangnam-gu,2020-04-03,14
+401,1000000521,20s,Seoul,Gangnam-gu,overseas inflow,,restaurant,2995,1000000521,20s,Gangnam-gu,2020-04-03,14
+402,1000000522,20s,Seoul,Gangnam-gu,overseas inflow,,hospital,2996,1000000522,20s,Gangnam-gu,2020-04-03,14
+403,1000000522,,Incheon,Jung-gu,,,airport,2996,1000000522,20s,Gangnam-gu,2020-04-03,14
+404,1000000523,70s,Seoul,Gangnam-gu,overseas inflow,,hospital,2997,1000000523,70s,Gangnam-gu,2020-04-03,14
+405,1000000523,,Incheon,Jung-gu,,,airport,2997,1000000523,70s,Gangnam-gu,2020-04-03,14
+406,1000000524,0s,Seoul,Dongdaemun-gu,overseas inflow,,hospital,2998,1000000524,0s,Dongdaemun-gu,2020-04-03,14
+407,1000000524,,Incheon,Jung-gu,,,airport,2998,1000000524,0s,Dongdaemun-gu,2020-04-03,14
+408,1000000526,20s,Seoul,Songpa-gu,overseas inflow,,etc,3000,1000000526,20s,Songpa-gu,2020-04-03,14
+409,1000000526,20s,Seoul,Songpa-gu,overseas inflow,,public_transportation,3000,1000000526,20s,Songpa-gu,2020-04-03,14
+410,1000000526,20s,Seoul,Songpa-gu,overseas inflow,,hospital,3000,1000000526,20s,Songpa-gu,2020-04-03,14
+411,1000000526,20s,Seoul,Songpa-gu,overseas inflow,,cafe,3000,1000000526,20s,Songpa-gu,2020-04-03,14
+412,1000000526,20s,Seoul,Songpa-gu,overseas inflow,,restaurant,3000,1000000526,20s,Songpa-gu,2020-04-03,14
+413,1000000526,,Incheon,Jung-gu,,,airport,3000,1000000526,20s,Songpa-gu,2020-04-03,14
+414,1000000527,20s,Seoul,Seocho-gu,overseas inflow,,hospital,3001,1000000527,20s,Seocho-gu,2020-04-03,14
+415,1000000530,40s,Seoul,Gangdong-gu,overseas inflow,,store,2958,1000000530,40s,Gangdong-gu,2020-04-02,14
+416,1000000530,40s,Seoul,Gangdong-gu,overseas inflow,,hospital,2958,1000000530,40s,Gangdong-gu,2020-04-02,14
+417,1000000530,,Incheon,Jung-gu,,,airport,2958,1000000530,40s,Gangdong-gu,2020-04-02,14
+418,1000000531,20s,Seoul,Songpa-gu,overseas inflow,,etc,3003,1000000531,20s,Songpa-gu,2020-04-03,14
+419,1000000531,20s,Seoul,Songpa-gu,overseas inflow,,hospital,3003,1000000531,20s,Songpa-gu,2020-04-03,14
+420,1000000531,,Incheon,Jung-gu,,,airport,3003,1000000531,20s,Songpa-gu,2020-04-03,14
+421,1000000532,40s,Seoul,Gangdong-gu,overseas inflow,,store,3004,1000000532,40s,Gangdong-gu,2020-04-03,14
+422,1000000532,40s,Seoul,Gangdong-gu,overseas inflow,,etc,3004,1000000532,40s,Gangdong-gu,2020-04-03,14
+423,1000000532,40s,Seoul,Gangdong-gu,overseas inflow,,hospital,3004,1000000532,40s,Gangdong-gu,2020-04-03,14
+424,1000000535,30s,Seoul,Mapo-gu,overseas inflow,,hospital,3040,1000000535,30s,Mapo-gu,2020-04-04,14
+425,1000000535,,Incheon,Jung-gu,,,airport,3040,1000000535,30s,Mapo-gu,2020-04-04,14
+426,1000000536,20s,Seoul,Seodaemun-gu,overseas inflow,,,3041,1000000536,20s,Seodaemun-gu,2020-04-04,14
+427,1000000539,30s,Seoul,Gwanak-gu,overseas inflow,,store,3044,1000000539,30s,Gwanak-gu,2020-04-04,14
+428,1000000539,30s,Seoul,Gwanak-gu,overseas inflow,,restaurant,3044,1000000539,30s,Gwanak-gu,2020-04-04,14
+429,1000000539,30s,Seoul,Gwanak-gu,overseas inflow,,pharmacy,3044,1000000539,30s,Gwanak-gu,2020-04-04,14
+430,1000000539,30s,Seoul,Gwanak-gu,overseas inflow,,hospital,3044,1000000539,30s,Gwanak-gu,2020-04-04,14
+431,1000000539,30s,Seoul,Gwanak-gu,overseas inflow,,etc,3044,1000000539,30s,Gwanak-gu,2020-04-04,14
+432,1000000539,,Incheon,Jung-gu,,,airport,3044,1000000539,30s,Gwanak-gu,2020-04-04,14
+433,1000000542,20s,Seoul,Gangseo-gu,overseas inflow,,hospital,3047,1000000542,20s,Gangseo-gu,2020-04-04,14
+434,1000000542,20s,Seoul,Gangseo-gu,overseas inflow,,etc,3047,1000000542,20s,Gangseo-gu,2020-04-04,14
+435,1000000542,,Incheon,Jung-gu,,,airport,3047,1000000542,20s,Gangseo-gu,2020-04-04,14
+436,1000000543,30s,Seoul,Dongdaemun-gu,overseas inflow,,hospital,3048,1000000543,30s,Dongdaemun-gu,2020-04-04,14
+437,1000000543,,Incheon,Jung-gu,,,airport,3048,1000000543,30s,Dongdaemun-gu,2020-04-04,14
+438,1000000544,20s,Seoul,Seodaemun-gu,overseas inflow,,hospital,3030,1000000544,20s,Seodaemun-gu,2020-04-04,14
+439,1000000544,,Incheon,Namdong-gu,,,airport,3030,1000000544,20s,Seodaemun-gu,2020-04-04,14
+440,1000000544,,Incheon,Jung-gu,,,airport,3030,1000000544,20s,Seodaemun-gu,2020-04-04,14
+441,1000000546,20s,Seoul,Songpa-gu,overseas inflow,,etc,3032,1000000546,20s,Songpa-gu,2020-04-04,14
+442,1000000546,20s,Seoul,Songpa-gu,overseas inflow,,hospital,3032,1000000546,20s,Songpa-gu,2020-04-04,14
+443,1000000546,,Incheon,Jung-gu,,,airport,3032,1000000546,20s,Songpa-gu,2020-04-04,14
+444,1000000547,30s,Seoul,Songpa-gu,overseas inflow,,airport,3033,1000000547,30s,Songpa-gu,2020-04-04,14
+445,1000000547,30s,Seoul,Songpa-gu,overseas inflow,,etc,3033,1000000547,30s,Songpa-gu,2020-04-04,14
+446,1000000547,30s,Seoul,Songpa-gu,overseas inflow,,hospital,3033,1000000547,30s,Songpa-gu,2020-04-04,14
+447,1000000547,,Incheon,Jung-gu,,,airport,3033,1000000547,30s,Songpa-gu,2020-04-04,14
+448,1000000548,10s,Seoul,Gangnam-gu,overseas inflow,,hospital,3034,1000000548,10s,Gangnam-gu,2020-04-04,14
+449,1000000548,,Incheon,Jung-gu,,,airport,3034,1000000548,10s,Gangnam-gu,2020-04-04,14
+450,1000000549,30s,Seoul,Gangnam-gu,overseas inflow,,hospital,3035,1000000549,30s,Gangnam-gu,2020-04-04,14
+451,1000000549,,Incheon,Jung-gu,,,airport,3035,1000000549,30s,Gangnam-gu,2020-04-04,14
+452,1000000553,20s,Seoul,Eunpyeong-gu,overseas inflow,,,3038,1000000553,20s,Eunpyeong-gu,2020-04-04,14
+453,1000000553,,Incheon,Namdong-gu,,,airport,3038,1000000553,20s,Eunpyeong-gu,2020-04-04,14
+454,1000000554,20s,Seoul,Seongbuk-gu,overseas inflow,,hospital,3066,1000000554,20s,Seongbuk-gu,2020-04-05,14
+455,1000000554,,Incheon,Jung-gu,,,airport,3066,1000000554,20s,Seongbuk-gu,2020-04-05,14
+456,1000000555,20s,Seoul,Seongbuk-gu,overseas inflow,,hospital,3067,1000000555,20s,Seongbuk-gu,2020-04-05,14
+457,1000000555,,Incheon,Jung-gu,,,airport,3067,1000000555,20s,Seongbuk-gu,2020-04-05,14
+458,1000000556,20s,Seoul,Yongsan-gu,overseas inflow,,hospital,3068,1000000556,20s,Yongsan-gu,2020-04-05,14
+459,1000000557,20s,Seoul,Gangseo-gu,overseas inflow,,hospital,3069,1000000557,20s,Gangseo-gu,2020-04-05,14
+460,1000000557,20s,Seoul,Gangseo-gu,overseas inflow,,etc,3069,1000000557,20s,Gangseo-gu,2020-04-05,14
+461,1000000557,,Incheon,Jung-gu,,,airport,3069,1000000557,20s,Gangseo-gu,2020-04-05,14
+462,1000000559,20s,Seoul,Yongsan-gu,overseas inflow,,hospital,3071,1000000559,20s,Yongsan-gu,2020-04-05,14
+463,1000000561,30s,Seoul,Yeongdeungpo-gu,overseas inflow,,,3073,1000000561,30s,Yeongdeungpo-gu,2020-04-05,14
+464,1000000562,20s,Seoul,Gangdong-gu,overseas inflow,,hospital,3074,1000000562,20s,Gangdong-gu,2020-04-05,14
+465,1000000562,,Incheon,Jung-gu,,,airport,3074,1000000562,20s,Gangdong-gu,2020-04-05,14
+466,1000000563,40s,Seoul,etc,overseas inflow,,,3075,1000000563,40s,etc,2020-04-05,14
+467,1000000565,,Seoul,Seongdong-gu,overseas inflow,,,3078,1000000565,,Seongdong-gu,2020-04-06,15
+468,1000000565,,Incheon,Jung-gu,,,airport,3078,1000000565,,Seongdong-gu,2020-04-06,15
+469,1000000566,,Seoul,Gwanak-gu,overseas inflow,,hospital,3079,1000000566,,Gwanak-gu,2020-04-06,15
+470,1000000567,,Seoul,Gangnam-gu,overseas inflow,,hospital,3080,1000000567,,Gangnam-gu,2020-04-06,15
+471,1000000567,,Incheon,Jung-gu,,,airport,3080,1000000567,,Gangnam-gu,2020-04-06,15
+472,1000000568,,Seoul,Nowon-gu,overseas inflow,,,3081,1000000568,,Nowon-gu,2020-04-06,15
+473,1000000569,,Seoul,Gangnam-gu,overseas inflow,,hospital,3082,1000000569,,Gangnam-gu,2020-04-06,15
+474,1000000569,,Incheon,Jung-gu,,,airport,3082,1000000569,,Gangnam-gu,2020-04-06,15
+475,1000000570,,Seoul,Gangseo-gu,overseas inflow,,hospital,3100,1000000570,,Gangseo-gu,2020-04-07,15
+476,1000000570,,Seoul,Gangseo-gu,overseas inflow,,etc,3100,1000000570,,Gangseo-gu,2020-04-07,15
+477,1000000570,,Incheon,Jung-gu,,,airport,3100,1000000570,,Gangseo-gu,2020-04-07,15
+478,1000000571,,Seoul,Seongbuk-gu,overseas inflow,,hospital,3101,1000000571,,Seongbuk-gu,2020-04-07,15
+479,1000000571,,Incheon,Jung-gu,,,airport,3101,1000000571,,Seongbuk-gu,2020-04-07,15
+480,1000000574,,Seoul,Yeongdeungpo-gu,overseas inflow,,hospital,3104,1000000574,,Yeongdeungpo-gu,2020-04-07,15
+481,1000000574,,Incheon,Jung-gu,,,airport,3104,1000000574,,Yeongdeungpo-gu,2020-04-07,15
+482,1000000576,,Seoul,Seocho-gu,overseas inflow,,hospital,3106,1000000576,,Seocho-gu,2020-04-07,15
+483,1000000577,,Seoul,Dongdaemun-gu,overseas inflow,,hospital,3107,1000000577,,Dongdaemun-gu,2020-04-07,15
+484,1000000577,,Incheon,Jung-gu,,,airport,3107,1000000577,,Dongdaemun-gu,2020-04-07,15
+485,1000000578,,Seoul,Gangnam-gu,overseas inflow,,hospital,3108,1000000578,,Gangnam-gu,2020-04-07,15
+486,1000000579,,Seoul,Seongdong-gu,overseas inflow,,,3109,1000000579,,Seongdong-gu,2020-04-07,15
+487,1000000580,,Seoul,Dobong-gu,overseas inflow,,etc,3132,1000000580,,Dobong-gu,2020-04-08,15
+488,1000000580,,Seoul,Dobong-gu,overseas inflow,,hospital,3132,1000000580,,Dobong-gu,2020-04-08,15
+489,1000000580,,Incheon,Jung-gu,,,airport,3132,1000000580,,Dobong-gu,2020-04-08,15
+490,1000000581,,Seoul,Mapo-gu,overseas inflow,,hospital,3155,1000000581,,Mapo-gu,2020-04-08,15
+491,1000000581,,Incheon,Jung-gu,,,airport,3155,1000000581,,Mapo-gu,2020-04-08,15
+492,1000000582,,Seoul,Mapo-gu,overseas inflow,,hospital,3134,1000000582,,Mapo-gu,2020-04-08,15
+493,1000000582,,Seoul,Mapo-gu,overseas inflow,,store,3134,1000000582,,Mapo-gu,2020-04-08,15
+494,1000000582,,Incheon,Jung-gu,,,airport,3134,1000000582,,Mapo-gu,2020-04-08,15
+495,1000000583,,Seoul,Mapo-gu,overseas inflow,,hospital,3135,1000000583,,Mapo-gu,2020-04-08,15
+496,1000000583,,Incheon,Jung-gu,,,airport,3135,1000000583,,Mapo-gu,2020-04-08,15
+497,1000000584,,Seoul,Seocho-gu,overseas inflow,,hospital,3136,1000000584,,Seocho-gu,2020-04-08,15
+498,1000000584,,Seoul,Seocho-gu,overseas inflow,,store,3136,1000000584,,Seocho-gu,2020-04-08,15
+499,1000000584,,Seoul,Seocho-gu,overseas inflow,,pharmacy,3136,1000000584,,Seocho-gu,2020-04-08,15
+500,1000000584,,Seoul,Seocho-gu,overseas inflow,,cafe,3136,1000000584,,Seocho-gu,2020-04-08,15
+501,1000000584,,Seoul,Seocho-gu,overseas inflow,,etc,3136,1000000584,,Seocho-gu,2020-04-08,15
+502,1000000584,,Seoul,Seocho-gu,overseas inflow,,restaurant,3136,1000000584,,Seocho-gu,2020-04-08,15
+503,1000000585,,Seoul,Seocho-gu,overseas inflow,,store,3137,1000000585,,Seocho-gu,2020-04-08,15
+504,1000000585,,Seoul,Seocho-gu,overseas inflow,,bar,3137,1000000585,,Seocho-gu,2020-04-08,15
+505,1000000585,,Seoul,Seocho-gu,overseas inflow,,restaurant,3137,1000000585,,Seocho-gu,2020-04-08,15
+506,1000000585,,Seoul,Seocho-gu,overseas inflow,,hospital,3137,1000000585,,Seocho-gu,2020-04-08,15
+507,1000000588,,Seoul,Yeongdeungpo-gu,overseas inflow,,hospital,3140,1000000588,,Yeongdeungpo-gu,2020-04-08,15
+508,1000000588,,Incheon,Jung-gu,,,airport,3140,1000000588,,Yeongdeungpo-gu,2020-04-08,15
+509,1000000589,,Seoul,Gangnam-gu,overseas inflow,,hospital,3141,1000000589,,Gangnam-gu,2020-04-08,15
+510,1000000590,,Seoul,Gangnam-gu,overseas inflow,,hospital,3142,1000000590,,Gangnam-gu,2020-04-08,15
+511,1000000590,,Incheon,Jung-gu,,,airport,3142,1000000590,,Gangnam-gu,2020-04-08,15
+512,1000000592,,Seoul,Seongdong-gu,overseas inflow,,,3158,1000000592,,Seongdong-gu,2020-04-09,15
+513,1000000593,,Seoul,Gwangjin-gu,overseas inflow,,,3159,1000000593,,Gwangjin-gu,2020-04-09,15
+514,1000000596,,Seoul,Gangnam-gu,overseas inflow,,hospital,3162,1000000596,,Gangnam-gu,2020-04-09,15
+515,1000000596,,Incheon,Jung-gu,,,airport,3162,1000000596,,Gangnam-gu,2020-04-09,15
+516,1000000597,,Seoul,Yangcheon-gu,overseas inflow,,,3190,1000000597,,Yangcheon-gu,2020-04-10,15
+517,1000000597,,Incheon,Jung-gu,,,airport,3190,1000000597,,Yangcheon-gu,2020-04-10,15
+518,1000000598,,Seoul,etc,overseas inflow,,,3084,1000000598,,etc,2020-04-06,15
+519,1000000598,,Incheon,Jung-gu,,,airport,3084,1000000598,,etc,2020-04-06,15
+520,1000000600,,Seoul,Gangnam-gu,overseas inflow,,hospital,3192,1000000600,,Gangnam-gu,2020-04-10,15
+521,1000000600,,Incheon,Jung-gu,,,airport,3192,1000000600,,Gangnam-gu,2020-04-10,15
+522,1000000603,,Seoul,Dongjak-gu,overseas inflow,,etc,3212,1000000603,,Dongjak-gu,2020-04-12,15
+523,1000000603,,Seoul,Dongjak-gu,overseas inflow,,hospital,3212,1000000603,,Dongjak-gu,2020-04-12,15
+524,1000000603,,Incheon,Jung-gu,,,airport,3212,1000000603,,Dongjak-gu,2020-04-12,15
+525,1000000604,,Seoul,Seongdong-gu,overseas inflow,,,3213,1000000604,,Seongdong-gu,2020-04-12,15
+526,1000000605,,Seoul,Seongdong-gu,overseas inflow,,,3214,1000000605,,Seongdong-gu,2020-04-12,15
+527,1000000606,,Seoul,Seongdong-gu,overseas inflow,,,3206,1000000606,,Seongdong-gu,2020-04-12,15
+528,1000000607,,Seoul,Seongdong-gu,overseas inflow,,,3207,1000000607,,Seongdong-gu,2020-04-12,15
+529,1000000608,,Seoul,Songpa-gu,overseas inflow,,hospital,3208,1000000608,,Songpa-gu,2020-04-12,15
+530,1000000611,,Seoul,Seongdong-gu,overseas inflow,,,3233,1000000611,,Seongdong-gu,2020-04-13,16
+531,1000000612,,Seoul,Seongdong-gu,overseas inflow,,,3234,1000000612,,Seongdong-gu,2020-04-13,16
+532,1000000614,,Seoul,Seongdong-gu,overseas inflow,,,3246,1000000614,,Seongdong-gu,2020-04-14,16
+533,1000000614,,Incheon,Namdong-gu,,,airport,3246,1000000614,,Seongdong-gu,2020-04-14,16
+534,1000000615,,Seoul,Dongjak-gu,overseas inflow,,hospital,3247,1000000615,,Dongjak-gu,2020-04-14,16
+535,1000000615,,Incheon,Jung-gu,,,airport,3247,1000000615,,Dongjak-gu,2020-04-14,16
+536,1000000616,,Seoul,Seocho-gu,overseas inflow,,,3248,1000000616,,Seocho-gu,2020-04-14,16
+537,1000000617,,Seoul,Seocho-gu,overseas inflow,,hospital,3249,1000000617,,Seocho-gu,2020-04-14,16
+538,1000000617,,Incheon,Jung-gu,,,airport,3249,1000000617,,Seocho-gu,2020-04-14,16
+539,1000000619,,Seoul,Seodaemun-gu,overseas inflow,,hospital,3263,1000000619,,Seodaemun-gu,2020-04-15,16
+540,1000000619,,Incheon,Namdong-gu,,,airport,3263,1000000619,,Seodaemun-gu,2020-04-15,16
+541,1000000619,,Incheon,Jung-gu,,,airport,3263,1000000619,,Seodaemun-gu,2020-04-15,16
+542,1000000621,,Seoul,Yongsan-gu,overseas inflow,,etc,3285,1000000621,,Yongsan-gu,2020-04-17,16
+543,1000000621,,Incheon,Namdong-gu,,,airport,3285,1000000621,,Yongsan-gu,2020-04-17,16
+544,1000000622,,Seoul,Seongbuk-gu,overseas inflow,,hospital,3286,1000000622,,Seongbuk-gu,2020-04-17,16
+545,1000000622,,Incheon,Jung-gu,,,airport,3286,1000000622,,Seongbuk-gu,2020-04-17,16
+546,1000000623,,Seoul,Gangnam-gu,overseas inflow,,hospital,3287,1000000623,,Gangnam-gu,2020-04-17,16
+547,1000000623,,Seoul,Gangnam-gu,overseas inflow,,store,3287,1000000623,,Gangnam-gu,2020-04-17,16
+548,1000000623,,Incheon,Jung-gu,,,airport,3287,1000000623,,Gangnam-gu,2020-04-17,16
+549,1000000624,,Seoul,Gangnam-gu,overseas inflow,,hospital,3301,1000000624,,Gangnam-gu,2020-04-18,16
+550,1000000624,,Incheon,Jung-gu,,,airport,3301,1000000624,,Gangnam-gu,2020-04-18,16
+551,1000000626,,Seoul,Mapo-gu,overseas inflow,,store,3312,1000000626,,Mapo-gu,2020-04-20,17
+552,1000000626,,Incheon,Jung-gu,,,airport,3312,1000000626,,Mapo-gu,2020-04-20,17
+553,1000000627,,Seoul,Mapo-gu,overseas inflow,,hospital,3320,1000000627,,Mapo-gu,2020-04-21,17
+554,1000000627,,Incheon,Jung-gu,,,airport,3320,1000000627,,Mapo-gu,2020-04-21,17
+555,1000000628,,Seoul,etc,overseas inflow,,,3319,1000000628,,etc,2020-04-21,17
+556,1000000629,,Seoul,etc,overseas inflow,,,3340,1000000629,,etc,2020-04-24,17
+557,1000000630,,Seoul,Seongbuk-gu,overseas inflow,,hospital,3365,1000000630,,Seongbuk-gu,2020-04-27,18
+558,1000000630,,Incheon,Jung-gu,,,airport,3365,1000000630,,Seongbuk-gu,2020-04-27,18
+559,1000000631,,Seoul,Gangnam-gu,overseas inflow,,hospital,3366,1000000631,,Gangnam-gu,2020-04-27,18
+560,1000000631,,Incheon,Jung-gu,,,airport,3366,1000000631,,Gangnam-gu,2020-04-27,18
+561,1000000632,,Seoul,Gwanak-gu,overseas inflow,,,3367,1000000632,,Gwanak-gu,2020-04-27,18
+562,1000000633,,Seoul,Gangnam-gu,overseas inflow,,public_transportation,3359,1000000633,,Gangnam-gu,2020-04-27,18
+563,1000000633,,Seoul,Gangnam-gu,overseas inflow,,hospital,3359,1000000633,,Gangnam-gu,2020-04-27,18
+564,1000000634,,Seoul,Seodaemun-gu,overseas inflow,,hospital,3377,1000000634,,Seodaemun-gu,2020-04-30,18
+565,1000000635,,Seoul,Seongdong-gu,overseas inflow,,,3379,1000000635,,Seongdong-gu,2020-05-01,18
+566,1000000636,,Seoul,Yongsan-gu,overseas inflow,,hospital,3388,1000000636,,Yongsan-gu,2020-05-02,18
+567,1000000636,,Incheon,Namdong-gu,,,airport,3388,1000000636,,Yongsan-gu,2020-05-02,18
+568,1000000637,,Seoul,Gangdong-gu,overseas inflow,,hospital,3394,1000000637,,Gangdong-gu,2020-05-05,19
+569,1000000637,,Incheon,Jung-gu,,,airport,3394,1000000637,,Gangdong-gu,2020-05-05,19
+570,1000000662,,Seoul,Seodaemun-gu,overseas inflow,,hospital,3434,1000000662,,Seodaemun-gu,2020-05-09,19
+571,1000000662,,Incheon,Namdong-gu,,,airport,3434,1000000662,,Seodaemun-gu,2020-05-09,19
+572,1000000663,,Seoul,Seocho-gu,overseas inflow,,hospital,3435,1000000663,,Seocho-gu,2020-05-09,19
+573,1000000710,,Seoul,Nowon-gu,overseas inflow,,,3552,1000000710,,Nowon-gu,2020-05-13,20
+574,1000000732,,Seoul,Songpa-gu,overseas inflow,,,3595,1000000732,,Songpa-gu,2020-05-16,20
+575,1000000736,,Seoul,Jongno-gu,overseas inflow,,,3605,1000000736,,Jongno-gu,2020-05-17,20
+576,1000000744,,Seoul,Yongsan-gu,overseas inflow,,hospital,3626,1000000744,,Yongsan-gu,2020-05-19,21
+577,1000000744,,Incheon,Namdong-gu,,,airport,3626,1000000744,,Yongsan-gu,2020-05-19,21
+578,1000000745,,Seoul,Yongsan-gu,overseas inflow,,hospital,3652,1000000745,,Yongsan-gu,2020-05-19,21
+579,1000000745,,Incheon,Namdong-gu,,,airport,3652,1000000745,,Yongsan-gu,2020-05-19,21
+580,1000000746,,Seoul,Yongsan-gu,overseas inflow,,hospital,3628,1000000746,,Yongsan-gu,2020-05-19,21
+581,1000000746,,Incheon,Namdong-gu,,,airport,3628,1000000746,,Yongsan-gu,2020-05-19,21
+582,1000000747,,Seoul,Yongsan-gu,overseas inflow,,hospital,3629,1000000747,,Yongsan-gu,2020-05-19,21
+583,1000000747,,Incheon,Namdong-gu,,,airport,3629,1000000747,,Yongsan-gu,2020-05-19,21
+584,1000000755,,Seoul,Dobong-gu,overseas inflow,,hospital,3655,1000000755,,Dobong-gu,2020-05-20,21
+585,1000000755,,Incheon,Jung-gu,,,airport,3655,1000000755,,Dobong-gu,2020-05-20,21
+586,1000000757,,Seoul,Nowon-gu,overseas inflow,,,3668,1000000757,,Nowon-gu,2020-05-21,21
+587,1000000766,,Seoul,Gangbuk-gu,overseas inflow,,hospital,3704,1000000766,,Gangbuk-gu,2020-05-23,21
+588,1000000766,,Seoul,Gangbuk-gu,overseas inflow,,etc,3704,1000000766,,Gangbuk-gu,2020-05-23,21
+589,1000000768,,Seoul,Gangdong-gu,overseas inflow,,gas_station,3706,1000000768,,Gangdong-gu,2020-05-23,21
+590,1000000768,,Seoul,Gangdong-gu,overseas inflow,,store,3706,1000000768,,Gangdong-gu,2020-05-23,21
+591,1000000768,,Seoul,Gangdong-gu,overseas inflow,,etc,3706,1000000768,,Gangdong-gu,2020-05-23,21
+592,1000000768,,Seoul,Gangdong-gu,overseas inflow,,hospital,3706,1000000768,,Gangdong-gu,2020-05-23,21
+593,1000000768,,Seoul,Gangdong-gu,overseas inflow,,restaurant,3706,1000000768,,Gangdong-gu,2020-05-23,21
+594,1000000768,,Incheon,Jung-gu,,,airport,3706,1000000768,,Gangdong-gu,2020-05-23,21
+595,1000000778,,Seoul,Nowon-gu,overseas inflow,,hospital,3741,1000000778,,Nowon-gu,2020-05-25,22
+596,1000000778,,Incheon,Jung-gu,,,airport,3741,1000000778,,Nowon-gu,2020-05-25,22
+597,1000000809,,Seoul,Mapo-gu,overseas inflow,,hospital,3795,1000000809,,Mapo-gu,2020-05-27,22
+598,1000000811,,Seoul,Seodaemun-gu,overseas inflow,,hospital,3797,1000000811,,Seodaemun-gu,2020-05-27,22
+599,1000000811,,Incheon,Jung-gu,,,airport,3797,1000000811,,Seodaemun-gu,2020-05-27,22
+600,1000000833,,Seoul,Gangseo-gu,overseas inflow,,hospital,3888,1000000833,,Gangseo-gu,2020-05-28,22
+601,1000000833,,Incheon,Jung-gu,,,airport,3888,1000000833,,Gangseo-gu,2020-05-28,22
+602,1000000851,,Seoul,Gangnam-gu,overseas inflow,,hospital,3925,1000000851,,Gangnam-gu,2020-05-29,22
+603,1000000851,,Incheon,Jung-gu,,,airport,3925,1000000851,,Gangnam-gu,2020-05-29,22
+604,1000000852,,Seoul,Dobong-gu,overseas inflow,,hospital,3926,1000000852,,Dobong-gu,2020-05-29,22
+605,1000000858,,Seoul,Seodaemun-gu,overseas inflow,,hospital,3962,1000000858,,Seodaemun-gu,2020-05-30,22
+606,1000000858,,Incheon,Namdong-gu,,,airport,3962,1000000858,,Seodaemun-gu,2020-05-30,22
+607,1000000862,,Seoul,Gangnam-gu,overseas inflow,,hospital,3988,1000000862,,Gangnam-gu,2020-05-31,22
+608,1000000862,,Incheon,Jung-gu,,,airport,3988,1000000862,,Gangnam-gu,2020-05-31,22
+609,1000000863,10s,Seoul,Yangcheon-gu,overseas inflow,,hospital,4044,1000000863,10s,Yangcheon-gu,2020-06-01,23
+610,1000000863,,Incheon,Jung-gu,,,airport,4044,1000000863,10s,Yangcheon-gu,2020-06-01,23
+611,1000000888,,Seoul,Seongdong-gu,overseas inflow,,hospital,4098,1000000888,,Seongdong-gu,2020-06-02,23
+612,1000000888,,Incheon,Namdong-gu,,,airport,4098,1000000888,,Seongdong-gu,2020-06-02,23
+613,1000000893,,Seoul,Gangdong-gu,overseas inflow,,hospital,4083,1000000893,,Gangdong-gu,2020-06-02,23
+614,1000000893,,Incheon,Jung-gu,,,airport,4083,1000000893,,Gangdong-gu,2020-06-02,23
+615,1000000896,,Seoul,Yangcheon-gu,overseas inflow,,etc,4086,1000000896,,Yangcheon-gu,2020-06-02,23
+616,1000001000,,Seoul,Seocho-gu,overseas inflow,,hospital,4329,1000001000,,Seocho-gu,2020-06-08,24
+617,1000001039,,Seoul,Nowon-gu,overseas inflow,,etc,4412,1000001039,,Nowon-gu,2020-06-10,24
+618,1000001039,,Seoul,Nowon-gu,overseas inflow,,store,4412,1000001039,,Nowon-gu,2020-06-10,24
+619,1000001071,,Seoul,Gangdong-gu,overseas inflow,,,4455,1000001071,,Gangdong-gu,2020-06-11,24
+620,1000001071,,Incheon,Jung-gu,,,airport,4455,1000001071,,Gangdong-gu,2020-06-11,24
+621,1000001116,,Seoul,Eunpyeong-gu,overseas inflow,,hospital,4587,1000001116,,Eunpyeong-gu,2020-06-14,24
+622,1000001116,,Incheon,Jung-gu,,,airport,4587,1000001116,,Eunpyeong-gu,2020-06-14,24
+623,1000001121,,Seoul,Seodaemun-gu,overseas inflow,,hospital,4569,1000001121,,Seodaemun-gu,2020-06-14,24
+624,1000001121,,Incheon,Jung-gu,,,airport,4569,1000001121,,Seodaemun-gu,2020-06-14,24
+625,1000001139,,Seoul,Gwanak-gu,overseas inflow,,hospital,4618,1000001139,,Gwanak-gu,2020-06-16,25
+626,1000001139,,Seoul,Gwanak-gu,overseas inflow,,store,4618,1000001139,,Gwanak-gu,2020-06-16,25
+627,1000001145,,Seoul,Songpa-gu,overseas inflow,,restaurant,4624,1000001145,,Songpa-gu,2020-06-16,25
+628,1000001145,,Seoul,Songpa-gu,overseas inflow,,etc,4624,1000001145,,Songpa-gu,2020-06-16,25
+629,1000001145,,Seoul,Songpa-gu,overseas inflow,,public_transportation,4624,1000001145,,Songpa-gu,2020-06-16,25
+630,1000001152,,Seoul,Gwanak-gu,overseas inflow,,airport,4657,1000001152,,Gwanak-gu,2020-06-17,25
+631,1000001152,,Seoul,Gwanak-gu,overseas inflow,,etc,4657,1000001152,,Gwanak-gu,2020-06-17,25
+632,1000001152,,Seoul,Gwanak-gu,overseas inflow,,hospital,4657,1000001152,,Gwanak-gu,2020-06-17,25
+633,1000001171,,Seoul,Seodaemun-gu,overseas inflow,,hospital,4702,1000001171,,Seodaemun-gu,2020-06-18,25
+634,1000001171,,Incheon,Namdong-gu,,,airport,4702,1000001171,,Seodaemun-gu,2020-06-18,25
+635,1000001197,,Seoul,Dongdaemun-gu,overseas inflow,,hospital,4755,1000001197,,Dongdaemun-gu,2020-06-19,25
+636,1000001216,,Seoul,etc,overseas inflow,,,4803,1000001216,,etc,2020-06-20,25
+637,1000001224,,Seoul,Seongbuk-gu,overseas inflow,,hospital,4837,1000001224,,Seongbuk-gu,2020-06-21,25
+638,1000001224,,Incheon,Jung-gu,,,airport,4837,1000001224,,Seongbuk-gu,2020-06-21,25
+639,1000001236,,Seoul,Yeongdeungpo-gu,overseas inflow,,hospital,4875,1000001236,,Yeongdeungpo-gu,2020-06-23,26
+640,1000001251,,Seoul,Jungnang-gu,overseas inflow,,hospital,4930,1000001251,,Jungnang-gu,2020-06-25,26
+641,1000001280,,Seoul,Eunpyeong-gu,overseas inflow,,etc,4967,1000001280,,Eunpyeong-gu,2020-06-26,26
+642,1000001280,,Seoul,Eunpyeong-gu,overseas inflow,,hospital,4967,1000001280,,Eunpyeong-gu,2020-06-26,26
+643,1000001280,,Incheon,Jung-gu,,,airport,4967,1000001280,,Eunpyeong-gu,2020-06-26,26
+644,1000001282,,Seoul,Jung-gu,overseas inflow,,,4969,1000001282,,Jung-gu,2020-06-26,26
+645,1000001282,,Incheon,Jung-gu,,,airport,4969,1000001282,,Jung-gu,2020-06-26,26
+646,1000001293,,Seoul,Yangcheon-gu,overseas inflow,,hospital,5010,1000001293,,Yangcheon-gu,2020-06-27,26
+647,1000001293,,Incheon,Namdong-gu,,,airport,5010,1000001293,,Yangcheon-gu,2020-06-27,26
+648,1000001303,,Seoul,Seocho-gu,overseas inflow,,hospital,5061,1000001303,,Seocho-gu,2020-06-28,26
+649,1000001306,,Seoul,Nowon-gu,overseas inflow,,hospital,5090,1000001306,,Nowon-gu,2020-06-29,27
+650,1000001306,,Incheon,Jung-gu,,,airport,5090,1000001306,,Nowon-gu,2020-06-29,27
+651,1100000091,20s,Busan,Haeundae-gu,overseas inflow,,store,1838,1100000091,20s,Haeundae-gu,2020-03-10,11
+652,1100000091,20s,Busan,Haeundae-gu,overseas inflow,,etc,1838,1100000091,20s,Haeundae-gu,2020-03-10,11
+653,1100000091,20s,Busan,Haeundae-gu,overseas inflow,,hospital,1838,1100000091,20s,Haeundae-gu,2020-03-10,11
+654,1100000091,20s,Busan,Haeundae-gu,overseas inflow,,restaurant,1838,1100000091,20s,Haeundae-gu,2020-03-10,11
+655,1100000102,20s,Busan,Saha-gu,overseas inflow,,,2104,1100000102,20s,Saha-gu,2020-03-17,12
+656,1100000102,,Incheon,Namdong-gu,,,airport,2104,1100000102,20s,Saha-gu,2020-03-17,12
+657,1100000102,,Seoul,Gangseo-gu,,,airport,2104,1100000102,20s,Saha-gu,2020-03-17,12
+658,1100000102,,Busan,Gangseo-gu,,,airport,2104,1100000102,20s,Saha-gu,2020-03-17,12
+659,1100000103,20s,Busan,Busanjin-gu,overseas inflow,,hospital,2158,1100000103,20s,Busanjin-gu,2020-03-18,12
+660,1100000103,,Incheon,Jung-gu,,,airport,2158,1100000103,20s,Busanjin-gu,2020-03-18,12
+661,1100000105,20s,Busan,Buk-gu,overseas inflow,,hospital,2382,1100000105,20s,Buk-gu,2020-03-22,12
+662,1100000105,,Incheon,Jung-gu,,,airport,2382,1100000105,20s,Buk-gu,2020-03-22,12
+663,1100000105,,Gyeonggi-do,Gimpo-si,,,airport,2382,1100000105,20s,Buk-gu,2020-03-22,12
+664,1100000105,,Busan,Gangseo-gu,,,airport,2382,1100000105,20s,Buk-gu,2020-03-22,12
+665,1100000108,30s,Busan,Buk-gu,overseas inflow,,park,2425,1100000108,30s,Buk-gu,2020-03-24,13
+666,1100000108,,Incheon,Jung-gu,,,airport,2425,1100000108,30s,Buk-gu,2020-03-24,13
+667,1100000108,,Seoul,Gangseo-gu,,,airport,2425,1100000108,30s,Buk-gu,2020-03-24,13
+668,1100000108,,Busan,Gangseo-gu,,,airport,2425,1100000108,30s,Buk-gu,2020-03-24,13
+669,1100000109,20s,Busan,Dongnae-gu,overseas inflow,,,2481,1100000109,20s,Dongnae-gu,2020-03-25,13
+670,1100000109,,Incheon,Jung-gu,,,airport,2481,1100000109,20s,Dongnae-gu,2020-03-25,13
+671,1100000109,,Busan,Gangseo-gu,,,airport,2481,1100000109,20s,Dongnae-gu,2020-03-25,13
+672,1100000110,10s,Busan,Dongnae-gu,overseas inflow,,hospital,2529,1100000110,10s,Dongnae-gu,2020-03-26,13
+673,1100000110,,Incheon,Jung-gu,,,airport,2529,1100000110,10s,Dongnae-gu,2020-03-26,13
+674,1100000111,40s,Busan,Haeundae-gu,overseas inflow,,hospital,2576,1100000111,40s,Haeundae-gu,2020-03-27,13
+675,1100000113,20s,Busan,Gijang-gun,overseas inflow,,hospital,2633,1100000113,20s,Gijang-gun,2020-03-28,13
+676,1100000113,,Incheon,Jung-gu,,,airport,2633,1100000113,20s,Gijang-gun,2020-03-28,13
+677,1100000114,10s,Busan,Suyeong-gu,overseas inflow,,hospital,2634,1100000114,10s,Suyeong-gu,2020-03-28,13
+678,1100000115,60s,Busan,Nam-gu,overseas inflow,,,2677,1100000115,60s,Nam-gu,2020-03-29,13
+679,1100000116,20s,Busan,Busanjin-gu,overseas inflow,,,2731,1100000116,20s,Busanjin-gu,2020-03-29,13
+680,1100000117,0s,Busan,Dongnae-gu,overseas inflow,,,2809,1100000117,0s,Dongnae-gu,2020-03-31,14
+681,1100000118,20s,Busan,Geumjeong-gu,overseas inflow,,,2810,1100000118,20s,Geumjeong-gu,2020-03-31,14
+682,1100000120,20s,Busan,Dong-gu,overseas inflow,,,3076,1100000120,20s,Dong-gu,2020-04-06,15
+683,1100000121,10s,Busan,Haeundae-gu,overseas inflow,,,3098,1100000121,10s,Haeundae-gu,2020-04-07,15
+684,1100000122,30s,Busan,Haeundae-gu,overseas inflow,,,3131,1100000122,30s,Haeundae-gu,2020-04-07,15
+685,1100000123,20s,Busan,etc,overseas inflow,,,3157,1100000123,20s,etc,2020-04-09,15
+686,1100000125,0s,Busan,Dongnae-gu,overseas inflow,,hospital,3264,1100000125,0s,Dongnae-gu,2020-04-15,16
+687,1100000125,,Incheon,Jung-gu,,,airport,3264,1100000125,0s,Dongnae-gu,2020-04-15,16
+688,1100000126,0s,Busan,Dongnae-gu,overseas inflow,,hospital,3272,1100000126,0s,Dongnae-gu,2020-04-15,16
+689,1100000126,,Incheon,Jung-gu,,,airport,3272,1100000126,0s,Dongnae-gu,2020-04-15,16
+690,1100000127,40s,Busan,Dongnae-gu,overseas inflow,,,3266,1100000127,40s,Dongnae-gu,2020-04-15,16
+691,1100000127,,Incheon,Jung-gu,,,airport,3266,1100000127,40s,Dongnae-gu,2020-04-15,16
+692,1100000130,30s,Busan,Nam-gu,overseas inflow,,,3318,1100000130,30s,Nam-gu,2020-04-21,17
+693,1100000130,,Incheon,Jung-gu,,,airport,3318,1100000130,30s,Nam-gu,2020-04-21,17
+694,1100000132,30s,Busan,Suyeong-gu,overseas inflow,,,3329,1100000132,30s,Suyeong-gu,2020-04-22,17
+695,1100000132,,Incheon,Namdong-gu,,,airport,3329,1100000132,30s,Suyeong-gu,2020-04-22,17
+696,1100000132,,Incheon,Jung-gu,,,airport,3329,1100000132,30s,Suyeong-gu,2020-04-22,17
+697,1100000133,60s,Busan,Sasang-gu,overseas inflow,,hospital,3334,1100000133,60s,Sasang-gu,2020-04-23,17
+698,1100000134,30s,Busan,Suyeong-gu,overseas inflow,,hospital,3346,1100000134,30s,Suyeong-gu,2020-04-25,17
+699,1100000134,,Incheon,Jung-gu,,,airport,3346,1100000134,30s,Suyeong-gu,2020-04-25,17
+700,1100000136,20s,Busan,etc,overseas inflow,,,3404,1100000136,20s,etc,2020-05-07,19
+701,1100000136,,Incheon,Jung-gu,,,airport,3404,1100000136,20s,etc,2020-05-07,19
+702,1100000137,60s,Busan,Gangseo-gu,overseas inflow,,,3403,1100000137,60s,Gangseo-gu,2020-05-07,19
+703,1100000137,,Incheon,Jung-gu,,,airport,3403,1100000137,60s,Gangseo-gu,2020-05-07,19
+704,1100000142,50s,Busan,Geumjeong-gu,overseas inflow,,,3788,1100000142,50s,Geumjeong-gu,2020-05-27,22
+705,1100000142,,Incheon,Jung-gu,,,airport,3788,1100000142,50s,Geumjeong-gu,2020-05-27,22
+706,1100000143,60s,Busan,Dongnae-gu,overseas inflow,,,3866,1100000143,60s,Dongnae-gu,2020-05-28,22
+707,1100000143,,Incheon,Jung-gu,,,airport,3866,1100000143,60s,Dongnae-gu,2020-05-28,22
+708,1100000145,20s,Busan,Gangseo-gu,overseas inflow,,,4599,1100000145,20s,Gangseo-gu,2020-06-15,25
+709,1100000145,,Incheon,Jung-gu,,,airport,4599,1100000145,20s,Gangseo-gu,2020-06-15,25
+710,1100000146,30s,Busan,Haeundae-gu,overseas inflow,,,4743,1100000146,30s,Haeundae-gu,2020-06-19,25
+711,1100000146,,Incheon,Jung-gu,,,airport,4743,1100000146,30s,Haeundae-gu,2020-06-19,25
+712,1100000147,30s,Busan,Nam-gu,overseas inflow,,,4744,1100000147,30s,Nam-gu,2020-06-19,25
+713,1100000147,,Incheon,Jung-gu,,,airport,4744,1100000147,30s,Nam-gu,2020-06-19,25
+714,1100000148,50s,Busan,etc,overseas inflow,,,4870,1100000148,50s,etc,2020-06-23,26
+715,1100000149,30s,Busan,Sasang-gu,overseas inflow,,hospital,4871,1100000149,30s,Sasang-gu,2020-06-23,26
+716,1100000149,,Incheon,Jung-gu,,,airport,4871,1100000149,30s,Sasang-gu,2020-06-23,26
+717,1100000151,,Busan,Dongnae-gu,overseas inflow,,hospital,5097,1100000151,,Dongnae-gu,2020-06-29,27
+718,1100000151,,Incheon,Jung-gu,,,airport,5097,1100000151,,Dongnae-gu,2020-06-29,27
+719,1200012084,40s,Daegu,Buk-gu,overseas inflow,,,4545,1200012084,40s,Buk-gu,2020-06-13,24
+720,1200012045,20s,Daegu,Buk-gu,overseas inflow,,,4507,1200012045,20s,Buk-gu,2020-06-12,24
+721,1200012044,50s,Daegu,Buk-gu,overseas inflow,,,4508,1200012044,50s,Buk-gu,2020-06-12,24
+722,1200012043,50s,Daegu,Buk-gu,overseas inflow,,,4509,1200012043,50s,Buk-gu,2020-06-12,24
+723,1200011814,30s,Daegu,Dalsung-gun,overseas inflow,,,4289,1200011814,30s,Dalsung-gun,2020-06-07,23
+724,1200012183,30s,Daegu,sankyeock-dong,overseas inflow,,,4626,1200012183,30s,sankyeock-dong,2020-06-16,25
+725,1200012238,20s,Daegu,Icheon-dong,overseas inflow,,,4674,1200012238,20s,Icheon-dong,2020-06-17,25
+726,1200012238,20s,Daegu,Icheon-dong,overseas inflow,,,4675,1200012238,20s,Nam-gu,2020-06-17,25
+727,1200012238,20s,Daegu,Nam-gu,overseas inflow,,,4674,1200012238,20s,Icheon-dong,2020-06-17,25
+728,1200012238,20s,Daegu,Nam-gu,overseas inflow,,,4675,1200012238,20s,Nam-gu,2020-06-17,25
+729,1200012525,40s,Daegu,Suseong-gu,overseas inflow,,,4872,1200012525,40s,Suseong-gu,2020-06-23,26
+730,1200012508,40s,Daegu,Dalseo-gu,overseas inflow,,,4856,1200012508,40s,Dalseo-gu,2020-06-22,26
+731,1300000001,40s,Gwangju,,overseas inflow,,,12,1300000001,40s,,2020-02-03,6
+732,1300000016,40s,Gwangju,,overseas inflow,,,1989,1300000016,40s,,2020-03-14,11
+733,1300000016,,Incheon,Jung-gu,,,airport,1989,1300000016,40s,,2020-03-14,11
+734,1300000019,30s,Gwangju,,overseas inflow,,,2268,1300000019,30s,,2020-03-20,12
+735,1300000020,20s,Gwangju,,overseas inflow,,,2533,1300000020,20s,,2020-03-26,13
+736,1300000021,40s,Gwangju,,overseas inflow,,,2801,1300000021,40s,,2020-03-31,14
+737,1300000022,10s,Gwangju,,overseas inflow,,,2802,1300000022,10s,,2020-03-31,14
+738,1300000023,10s,Gwangju,,overseas inflow,,,2803,1300000023,10s,,2020-03-31,14
+739,1300000024,30s,Gwangju,,overseas inflow,,,2804,1300000024,30s,,2020-03-31,14
+740,1300000025,10s,Gwangju,,overseas inflow,,,2880,1300000025,10s,,2020-04-01,14
+741,1300000026,30s,Gwangju,,overseas inflow,,,2939,1300000026,30s,,2020-04-02,14
+742,1300000027,20s,Gwangju,,overseas inflow,,,3028,1300000027,20s,,2020-04-04,14
+743,1300000028,20s,Gwangju,,overseas inflow,,,3250,1300000028,20s,,2020-04-14,16
+744,1300000029,60s,Gwangju,,overseas inflow,,,3275,1300000029,60s,,2020-04-16,16
+745,1300000030,20s,Gwangju,,overseas inflow,,,3276,1300000030,20s,,2020-04-16,16
+746,1300000031,20s,Gwangju,,overseas inflow,,,3930,1300000031,20s,,2020-05-29,22
+747,1300000032,20s,Gwangju,,overseas inflow,,,3931,1300000032,20s,,2020-05-29,22
+748,1300000038,30s,Gwangju,,overseas inflow,,,5052,1300000038,30s,,2020-06-28,26
+749,1300000038,,Incheon,Jung-gu,,,airport,5052,1300000038,30s,,2020-06-28,26
+750,1400000004,20s,Incheon,Seo-gu,contact with patient,,airport,669,1400000004,20s,Seo-gu,2020-02-28,9
+751,1400000033,50s,Incheon,Yeonsu-gu,overseas inflow,,etc,2225,1400000033,50s,Yeonsu-gu,2020-03-19,12
+752,1400000037,50s,Incheon,Yeonsu-gu,overseas inflow,,hospital,2229,1400000037,50s,Yeonsu-gu,2020-03-19,12
+753,1400000037,,Incheon,Jung-gu,,,airport,2229,1400000037,50s,Yeonsu-gu,2020-03-19,12
+754,1400000040,50s,Incheon,Yeonsu-gu,overseas inflow,,,2267,1400000040,50s,Yeonsu-gu,2020-03-20,12
+755,1400000042,30s,Incheon,Yeonsu-gu,overseas inflow,,,2398,1400000042,30s,Yeonsu-gu,2020-03-23,13
+756,1400000043,20s,Incheon,Jung-gu,overseas inflow,,,2482,1400000043,20s,Jung-gu,2020-03-25,13
+757,1400000045,20s,Incheon,Yeonsu-gu,overseas inflow,,,2530,1400000045,20s,Yeonsu-gu,2020-03-26,13
+758,1400000046,20s,Incheon,Namdong-gu,overseas inflow,,,2531,1400000046,20s,Namdong-gu,2020-03-26,13
+759,1400000048,50s,Incheon,Bupyeong-gu,overseas inflow,,,2577,1400000048,50s,Bupyeong-gu,2020-03-27,13
+760,1400000049,20s,Incheon,Yeonsu-gu,overseas inflow,,,2578,1400000049,20s,Yeonsu-gu,2020-03-27,13
+761,1400000051,60s,Incheon,Bupyeong-gu,overseas inflow,,,2580,1400000051,60s,Bupyeong-gu,2020-03-27,13
+762,1400000052,30s,Incheon,Michuhol-gu,overseas inflow,,,2581,1400000052,30s,Michuhol-gu,2020-03-27,13
+763,1400000053,30s,Incheon,Jung-gu,overseas inflow,,,2635,1400000053,30s,Jung-gu,2020-03-28,13
+764,1400000054,30s,Incheon,Jung-gu,overseas inflow,,,2636,1400000054,30s,Jung-gu,2020-03-28,13
+765,1400000055,30s,Incheon,Yeonsu-gu,overseas inflow,,,2637,1400000055,30s,Yeonsu-gu,2020-03-28,13
+766,1400000056,50s,Incheon,Bupyeong-gu,overseas inflow,,,2638,1400000056,50s,Bupyeong-gu,2020-03-28,13
+767,1400000057,40s,Incheon,Namdong-gu,overseas inflow,,,2639,1400000057,40s,Namdong-gu,2020-03-28,13
+768,1400000059,20s,Incheon,Bupyeong-gu,overseas inflow,,,2641,1400000059,20s,Bupyeong-gu,2020-03-28,13
+769,1400000060,20s,Incheon,Seo-gu,overseas inflow,,,2679,1400000060,20s,Seo-gu,2020-03-29,13
+770,1400000062,50s,Incheon,Michuhol-gu,overseas inflow,,,2753,1400000062,50s,Michuhol-gu,2020-03-30,14
+771,1400000064,70s,Incheon,Jung-gu,overseas inflow,,,2755,1400000064,70s,Jung-gu,2020-03-30,14
+772,1400000065,20s,Incheon,Namdong-gu,overseas inflow,,,2756,1400000065,20s,Namdong-gu,2020-03-30,14
+773,1400000066,20s,Incheon,Namdong-gu,overseas inflow,,,2757,1400000066,20s,Namdong-gu,2020-03-30,14
+774,1400000067,30s,Incheon,Michuhol-gu,overseas inflow,,,2805,1400000067,30s,Michuhol-gu,2020-03-31,14
+775,1400000069,50s,Incheon,Namdong-gu,overseas inflow,,,2807,1400000069,50s,Namdong-gu,2020-03-31,14
+776,1400000075,60s,Incheon,Seo-gu,overseas inflow,,,2940,1400000075,60s,Seo-gu,2020-04-02,14
+777,1400000076,60s,Incheon,Seo-gu,overseas inflow,,,2983,1400000076,60s,Seo-gu,2020-04-03,14
+778,1400000077,20s,Incheon,Seo-gu,overseas inflow,,,2984,1400000077,20s,Seo-gu,2020-04-03,14
+779,1400000079,60s,Incheon,Gyeyang-gu,overseas inflow,,,3029,1400000079,60s,Gyeyang-gu,2020-04-04,14
+780,1400000082,30s,Incheon,Seo-gu,overseas inflow,,,3130,1400000082,30s,Seo-gu,2020-04-07,15
+781,1400000084,60s,Incheon,Namdong-gu,overseas inflow,,,3178,1400000084,60s,Namdong-gu,2020-04-09,15
+782,1400000086,20s,Incheon,Ganghwa-gun,overseas inflow,,,3181,1400000086,20s,Ganghwa-gun,2020-04-10,15
+783,1400000087,60s,Incheon,Yeonsu-gu,overseas inflow,,,3211,1400000087,60s,Yeonsu-gu,2020-04-12,15
+784,1400000088,30s,Incheon,Namdong-gu,overseas inflow,,,3236,1400000088,30s,Namdong-gu,2020-04-13,16
+785,1400000089,30s,Incheon,Seo-gu,overseas inflow,,,3277,1400000089,30s,Seo-gu,2020-04-16,16
+786,1400000090,40s,Incheon,Michuhol-gu,overseas inflow,,,3288,1400000090,40s,Michuhol-gu,2020-04-17,16
+787,1400000091,20s,Incheon,Namdong-gu,overseas inflow,,,3300,1400000091,20s,Namdong-gu,2020-04-18,16
+788,1400000092,20s,Incheon,Gyeyang-gu,overseas inflow,,,3308,1400000092,20s,Gyeyang-gu,2020-04-19,16
+789,1400000093,,Incheon,Namdong-gu,overseas inflow,,,3360,1400000093,,Namdong-gu,2020-04-27,18
+790,1400000094,,Incheon,Michuhol-gu,overseas inflow,,,3376,1400000094,,Michuhol-gu,2020-04-30,18
+791,1400000095,,Incheon,Namdong-gu,overseas inflow,,,3381,1400000095,,Namdong-gu,2020-05-01,18
+792,1400000096,,Incheon,Bupyeong-gu,overseas inflow,,,3387,1400000096,,Bupyeong-gu,2020-05-02,18
+793,1400000097,,Incheon,Michuhol-gu,overseas inflow,,,3392,1400000097,,Michuhol-gu,2020-05-03,18
+794,1400000104,,Incheon,Gyeyang-gu,overseas inflow,,,3479,1400000104,,Gyeyang-gu,2020-05-10,19
+795,1400000120,,Incheon,Yeonsu-gu,overseas inflow,,,3548,1400000120,,Yeonsu-gu,2020-05-13,20
+796,1400000150,,Incheon,Namdong-gu,overseas inflow,,,3758,1400000150,,Namdong-gu,2020-05-26,22
+797,1400000269,,Incheon,Gyeyang-gu,overseas inflow,,,4190,1400000269,,Gyeyang-gu,2020-06-05,23
+798,1400000297,,Incheon,Yeonsu-gu,overseas inflow,,,4415,1400000297,,Yeonsu-gu,2020-06-10,24
+799,1400000301,,Incheon,Yeonsu-gu,overseas inflow,,,4457,1400000301,,Yeonsu-gu,2020-06-11,24
+800,1400000323,,Incheon,Yeonsu-gu,overseas inflow,,,4678,1400000323,,Yeonsu-gu,2020-06-17,25
+801,1400000325,,Incheon,Michuhol-gu,overseas inflow,,,4722,1400000325,,Michuhol-gu,2020-06-18,25
+802,1400000330,,Incheon,Namdong-gu,overseas inflow,,,4842,1400000330,,Namdong-gu,2020-06-21,25
+803,1400000335,,Incheon,Namdong-gu,overseas inflow,,,4949,1400000335,,Namdong-gu,2020-06-25,26
+804,1400000336,,Incheon,Jung-gu,overseas inflow,,,4950,1400000336,,Jung-gu,2020-06-25,26
+805,1400000337,,Incheon,Yeonsu-gu,overseas inflow,,,4981,1400000337,,Yeonsu-gu,2020-06-26,26
+806,1400000339,,Incheon,Yeonsu-gu,overseas inflow,,,5075,1400000339,,Yeonsu-gu,2020-06-28,26
+807,1400000340,,Incheon,Yeonsu-gu,overseas inflow,,,5110,1400000340,,Yeonsu-gu,2020-06-29,27
+808,1400000341,,Incheon,Yeonsu-gu,overseas inflow,,,5111,1400000341,,Yeonsu-gu,2020-06-29,27
+809,1400000342,,Incheon,,overseas inflow,,,5118,1400000342,,,2020-06-30,27
+810,1400000343,,Incheon,,overseas inflow,,,5116,1400000343,,,2020-06-30,27
+811,1500000026,60s,Daejeon,Seo-gu,overseas inflow,,,2430,1500000026,60s,Seo-gu,2020-03-24,13
+812,1500000028,20s,Daejeon,Dong-gu,overseas inflow,,,2484,1500000028,20s,Dong-gu,2020-03-25,13
+813,1500000031,20s,Daejeon,Yuseong-gu,overseas inflow,,,2536,1500000031,20s,Yuseong-gu,2020-03-26,13
+814,1500000033,20s,Daejeon,Seo-gu,overseas inflow,5000000011.0,,2647,1500000033,20s,Seo-gu,2020-03-28,13
+815,1500000035,10s,Daejeon,Seo-gu,overseas inflow,,,2751,1500000035,10s,Seo-gu,2020-03-30,14
+816,1500000036,30s,Daejeon,Seo-gu,overseas inflow,,,2752,1500000036,30s,Seo-gu,2020-03-30,14
+817,1500000037,20s,Daejeon,Yuseong-gu,overseas inflow,,hospital,3395,1500000037,20s,Yuseong-gu,2020-05-05,19
+818,1500000038,20s,Daejeon,Yuseong-gu,overseas inflow,,,3062,1500000038,20s,Yuseong-gu,2020-04-05,14
+819,1500000039,20s,Daejeon,Daedeok-gu,overseas inflow,,,3063,1500000039,20s,Daedeok-gu,2020-04-05,14
+820,1500000040,30s,Daejeon,Jung-gu,overseas inflow,,hospital,3321,1500000040,30s,Jung-gu,2020-04-21,17
+821,1500000040,,Incheon,Jung-gu,,,airport,3321,1500000040,30s,Jung-gu,2020-04-21,17
+822,1500000041,20s,Daejeon,Yuseong-gu,overseas inflow,,,3398,1500000041,20s,Yuseong-gu,2020-05-06,19
+823,1500000041,,Incheon,Jung-gu,,,airport,3398,1500000041,20s,Yuseong-gu,2020-05-06,19
+824,1500000042,10s,Daejeon,Yuseong-gu,overseas inflow,1500000043.0,hospital,3493,1500000042,10s,Yuseong-gu,2020-05-11,20
+825,1500000042,,Incheon,Jung-gu,,,airport,3493,1500000042,10s,Yuseong-gu,2020-05-11,20
+826,1500000043,10s,Daejeon,Yuseong-gu,overseas inflow,1500000042.0,hospital,3492,1500000043,10s,Yuseong-gu,2020-05-11,20
+827,1500000043,,Incheon,Jung-gu,,,airport,3492,1500000043,10s,Yuseong-gu,2020-05-11,20
+828,1500000045,20s,Daejeon,Yuseong-gu,overseas inflow,,hospital,3699,1500000045,20s,Yuseong-gu,2020-05-22,21
+829,1500000046,20s,Daejeon,Seo-gu,overseas inflow,,,3974,1500000046,20s,Seo-gu,2020-05-30,22
+830,1500000046,,Incheon,Jung-gu,,,airport,3974,1500000046,20s,Seo-gu,2020-05-30,22
+831,1500000118,20s,Daejeon,Dong-gu,overseas inflow,,public_transportation,5114,1500000118,20s,Dong-gu,2020-06-30,27
+832,1500000118,,Incheon,Jung-gu,,,airport,5114,1500000118,20s,Dong-gu,2020-06-30,27
+833,1600000029,30s,Ulsan,Nam-gu,overseas inflow,,restaurant,2102,1600000029,30s,Nam-gu,2020-03-17,12
+834,1600000029,30s,Ulsan,Nam-gu,overseas inflow,,pharmacy,2102,1600000029,30s,Nam-gu,2020-03-17,12
+835,1600000029,30s,Ulsan,Nam-gu,overseas inflow,,store,2102,1600000029,30s,Nam-gu,2020-03-17,12
+836,1600000030,30s,Ulsan,Nam-gu,overseas inflow,,pharmacy,2103,1600000030,30s,Nam-gu,2020-03-17,12
+837,1600000030,30s,Ulsan,Nam-gu,overseas inflow,,restaurant,2103,1600000030,30s,Nam-gu,2020-03-17,12
+838,1600000031,20s,Ulsan,Jung-gu,overseas inflow,,,2154,1600000031,20s,Jung-gu,2020-03-18,12
+839,1600000032,50s,Ulsan,Jung-gu,overseas inflow,,,3529,1600000032,50s,Jung-gu,2020-05-12,20
+840,1600000033,20s,Ulsan,Jung-gu,overseas inflow,,,2155,1600000033,20s,Jung-gu,2020-03-18,12
+841,1600000033,,Incheon,Jung-gu,,,airport,2155,1600000033,20s,Jung-gu,2020-03-18,12
+842,1600000037,20s,Ulsan,Nam-gu,overseas inflow,,,2426,1600000037,20s,Nam-gu,2020-03-24,13
+843,1600000038,10s,Ulsan,Ulju-gun,overseas inflow,,,2534,1600000038,10s,Ulju-gun,2020-03-26,13
+844,1600000039,20s,Ulsan,Nam-gu,overseas inflow,,,2535,1600000039,20s,Nam-gu,2020-03-26,13
+845,1600000040,20s,Ulsan,Dong-gu,overseas inflow,,,2860,1600000040,20s,Dong-gu,2020-04-01,14
+846,1600000041,20s,Ulsan,Ulju-gun,overseas inflow,,,3182,1600000041,20s,Ulju-gun,2020-04-10,15
+847,1600000042,20s,Ulsan,Nam-gu,overseas inflow,,,3231,1600000042,20s,Nam-gu,2020-04-13,16
+848,1600000043,50s,Ulsan,Buk-gu,overseas inflow,,,3303,1600000043,50s,Buk-gu,2020-04-19,16
+849,1600000044,40s,Ulsan,Jung-gu,overseas inflow,,,3393,1600000044,40s,Jung-gu,2020-05-03,18
+850,1600000044,,Incheon,Jung-gu,,,airport,3393,1600000044,40s,Jung-gu,2020-05-03,18
+851,1600000045,40s,Ulsan,Dong-gu,overseas inflow,,,3530,1600000045,40s,Dong-gu,2020-05-12,20
+852,1600000046,50s,Ulsan,Buk-gu,overseas inflow,,,3622,1600000046,50s,Buk-gu,2020-05-18,21
+853,1600000047,20s,Ulsan,Buk-gu,overseas inflow,,,3623,1600000047,20s,Buk-gu,2020-05-18,21
+854,1600000048,50s,Ulsan,Ulju-gun,overseas inflow,,,3624,1600000048,50s,Ulju-gun,2020-05-18,21
+855,1600000049,50s,Ulsan,Ulju-gun,overseas inflow,,,3618,1600000049,50s,Ulju-gun,2020-05-18,21
+856,1600000050,20s,Ulsan,Dong-gu,overseas inflow,,,3677,1600000050,20s,Dong-gu,2020-05-21,21
+857,1600000051,50s,Ulsan,Dong-gu,overseas inflow,,,3956,1600000051,50s,Dong-gu,2020-05-29,22
+858,1600000052,50s,Ulsan,Jung-gu,overseas inflow,,,3922,1600000052,50s,Jung-gu,2020-05-29,22
+859,1700000043,40s,Sejong,Sejong,overseas inflow,,,2427,1700000043,40s,Sejong,2020-03-24,13
+860,1700000045,40s,Sejong,Sejong,overseas inflow,,,2644,1700000045,40s,Sejong,2020-03-28,13
+861,1700000046,10s,Sejong,Sejong,overseas inflow,,,2645,1700000046,10s,Sejong,2020-03-28,13
+862,1700000047,30s,Sejong,Sejong,overseas inflow,,,3468,1700000047,30s,Sejong,2020-05-10,19
+863,1700000047,,Incheon,Namdong-gu,,,airport,3468,1700000047,30s,Sejong,2020-05-10,19
+864,1700000050,40s,Sejong,Sejong,overseas inflow,,,5103,1700000050,40s,Sejong,2020-06-29,27
+865,1700000050,,Incheon,Jung-gu,,,airport,5103,1700000050,40s,Sejong,2020-06-29,27
+866,2000000001,50s,Gyeonggi-do,Goyang-si,overseas inflow,,restaurant,1,2000000001,50s,Goyang-si,2020-01-26,4
+867,2000000002,50s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,public_transportation,2,2000000002,50s,Pyeongtaek-si,2020-01-27,5
+868,2000000002,50s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,etc,2,2000000002,50s,Pyeongtaek-si,2020-01-27,5
+869,2000000002,50s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,hospital,2,2000000002,50s,Pyeongtaek-si,2020-01-27,5
+870,2000000006,30s,Gyeonggi-do,Guri-si,overseas inflow,,hospital,14,2000000006,30s,Guri-si,2020-02-05,6
+871,2000000006,30s,Gyeonggi-do,Guri-si,overseas inflow,,store,14,2000000006,30s,Guri-si,2020-02-05,6
+872,2000000006,30s,Gyeonggi-do,Guri-si,overseas inflow,,restaurant,14,2000000006,30s,Guri-si,2020-02-05,6
+873,2000000006,,Incheon,Namdong-gu,,,airport,14,2000000006,30s,Guri-si,2020-02-05,6
+874,2000000016,20s,Gyeonggi-do,Bucheon-si,overseas inflow,,,183,2000000016,20s,Bucheon-si,2020-02-22,8
+875,2000000152,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,1661,2000000152,20s,Suwon-si,2020-03-08,10
+876,2000000179,20s,Gyeonggi-do,Uijeongbu-si,overseas inflow,,,1883,2000000179,20s,Uijeongbu-si,2020-03-11,11
+877,2000000184,40s,Gyeonggi-do,Suwon-si,overseas inflow,,,1937,2000000184,40s,Suwon-si,2020-03-12,11
+878,2000000200,30s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,1969,2000000200,30s,Pyeongtaek-si,2020-03-13,11
+879,2000000213,20s,Gyeonggi-do,Goyang-si,overseas inflow,,,2019,2000000213,20s,Goyang-si,2020-03-15,11
+880,2000000245,30s,Gyeonggi-do,Ansan-si,overseas inflow,,,2067,2000000245,30s,Ansan-si,2020-03-16,12
+881,2000000267,30s,Gyeonggi-do,Yongin-si,overseas inflow,,,2112,2000000267,30s,Yongin-si,2020-03-17,12
+882,2000000278,30s,Gyeonggi-do,Yongin-si,overseas inflow,,,2123,2000000278,30s,Yongin-si,2020-03-17,12
+883,2000000279,30s,Gyeonggi-do,Yongin-si,overseas inflow,,,2124,2000000279,30s,Yongin-si,2020-03-17,12
+884,2000000280,40s,Gyeonggi-do,Yongin-si,overseas inflow,,,2159,2000000280,40s,Yongin-si,2020-03-18,12
+885,2000000281,0s,Gyeonggi-do,Yongin-si,overseas inflow,,,2160,2000000281,0s,Yongin-si,2020-03-18,12
+886,2000000291,30s,Gyeonggi-do,Goyang-si,overseas inflow,,,2170,2000000291,30s,Goyang-si,2020-03-18,12
+887,2000000294,30s,Gyeonggi-do,Hwaseong-si,overseas inflow,,,2177,2000000294,30s,Hwaseong-si,2020-03-18,12
+888,2000000299,30s,Gyeonggi-do,Namyangju-si,overseas inflow,,,2182,2000000299,30s,Namyangju-si,2020-03-18,12
+889,2000000300,30s,Gyeonggi-do,Seongnam-si,overseas inflow,,,2183,2000000300,30s,Seongnam-si,2020-03-18,12
+890,2000000301,30s,Gyeonggi-do,Yongin-si,overseas inflow,,,2213,2000000301,30s,Yongin-si,2020-03-19,12
+891,2000000307,40s,Gyeonggi-do,Suwon-si,overseas inflow,,,2219,2000000307,40s,Suwon-si,2020-03-19,12
+892,2000000308,20s,Gyeonggi-do,Bucheon-si,overseas inflow,,,2220,2000000308,20s,Bucheon-si,2020-03-19,12
+893,2000000310,60s,Gyeonggi-do,Yongin-si,overseas inflow,,,2222,2000000310,60s,Yongin-si,2020-03-19,12
+894,2000000318,40s,Gyeonggi-do,Guri-si,overseas inflow,,,2279,2000000318,40s,Guri-si,2020-03-20,12
+895,2000000321,50s,Gyeonggi-do,Suwon-si,overseas inflow,,,2282,2000000321,50s,Suwon-si,2020-03-20,12
+896,2000000323,20s,Gyeonggi-do,Seongnam-si,overseas inflow,,,2284,2000000323,20s,Seongnam-si,2020-03-20,12
+897,2000000327,40s,Gyeonggi-do,Namyangju-si,overseas inflow,,,2333,2000000327,40s,Namyangju-si,2020-03-21,12
+898,2000000339,30s,Gyeonggi-do,Seongnam-si,overseas inflow,,,2366,2000000339,30s,Seongnam-si,2020-03-22,12
+899,2000000342,30s,Gyeonggi-do,Yongin-si,overseas inflow,,,2369,2000000342,30s,Yongin-si,2020-03-22,12
+900,2000000345,20s,Gyeonggi-do,Gwangju-si,overseas inflow,,,2372,2000000345,20s,Gwangju-si,2020-03-22,12
+901,2000000357,20s,Gyeonggi-do,Yongin-si,overseas inflow,,,2410,2000000357,20s,Yongin-si,2020-03-23,13
+902,2000000360,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,2402,2000000360,20s,Suwon-si,2020-03-23,13
+903,2000000364,50s,Gyeonggi-do,Bucheon-si,overseas inflow,,,2406,2000000364,50s,Bucheon-si,2020-03-23,13
+904,2000000369,30s,Gyeonggi-do,Uiwang-si,overseas inflow,,,2435,2000000369,30s,Uiwang-si,2020-03-24,13
+905,2000000372,20s,Gyeonggi-do,Yongin-si,overseas inflow,,,2438,2000000372,20s,Yongin-si,2020-03-24,13
+906,2000000377,30s,Gyeonggi-do,Osan-si,overseas inflow,,,2443,2000000377,30s,Osan-si,2020-03-24,13
+907,2000000383,30s,Gyeonggi-do,Suwon-si,overseas inflow,,,2449,2000000383,30s,Suwon-si,2020-03-24,13
+908,2000000384,20s,Gyeonggi-do,Goyang-si,overseas inflow,,,2450,2000000384,20s,Goyang-si,2020-03-24,13
+909,2000000385,20s,Gyeonggi-do,Ansan-si,overseas inflow,,,2451,2000000385,20s,Ansan-si,2020-03-24,13
+910,2000000386,30s,Gyeonggi-do,Hwaseong-si,overseas inflow,,,2452,2000000386,30s,Hwaseong-si,2020-03-24,13
+911,2000000392,20s,Gyeonggi-do,Siheung-si,overseas inflow,,,2490,2000000392,20s,Siheung-si,2020-03-25,13
+912,2000000393,20s,Gyeonggi-do,Seongnam-si,overseas inflow,,,2491,2000000393,20s,Seongnam-si,2020-03-25,13
+913,2000000394,0s,Gyeonggi-do,Yongin-si,overseas inflow,,,2492,2000000394,0s,Yongin-si,2020-03-25,13
+914,2000000395,30s,Gyeonggi-do,Yongin-si,overseas inflow,,,2493,2000000395,30s,Yongin-si,2020-03-25,13
+915,2000000397,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,2495,2000000397,20s,Suwon-si,2020-03-25,13
+916,2000000401,30s,Gyeonggi-do,Gwangju-si,overseas inflow,,,2499,2000000401,30s,Gwangju-si,2020-03-25,13
+917,2000000409,10s,Gyeonggi-do,Yongin-si,overseas inflow,,,2542,2000000409,10s,Yongin-si,2020-03-26,13
+918,2000000418,30s,Gyeonggi-do,Gwacheon-si,overseas inflow,,,2585,2000000418,30s,Gwacheon-si,2020-03-27,13
+919,2000000423,20s,Gyeonggi-do,Seongnam-si,overseas inflow,,,2591,2000000423,20s,Seongnam-si,2020-03-27,13
+920,2000000427,30s,Gyeonggi-do,Suwon-si,overseas inflow,,,2595,2000000427,30s,Suwon-si,2020-03-27,13
+921,2000000428,30s,Gyeonggi-do,Goyang-si,overseas inflow,,,2596,2000000428,30s,Goyang-si,2020-03-27,13
+922,2000000429,60s,Gyeonggi-do,Bucheon-si,overseas inflow,,,2597,2000000429,60s,Bucheon-si,2020-03-27,13
+923,2000000430,30s,Gyeonggi-do,Goyang-si,overseas inflow,,,2598,2000000430,30s,Goyang-si,2020-03-27,13
+924,2000000431,60s,Gyeonggi-do,Bucheon-si,overseas inflow,,,2599,2000000431,60s,Bucheon-si,2020-03-27,13
+925,2000000435,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,2603,2000000435,20s,Suwon-si,2020-03-27,13
+926,2000000436,0s,Gyeonggi-do,Anyang-si,overseas inflow,,,2651,2000000436,0s,Anyang-si,2020-03-28,13
+927,2000000440,20s,Gyeonggi-do,Gwangju-si,overseas inflow,,,2655,2000000440,20s,Gwangju-si,2020-03-28,13
+928,2000000441,30s,Gyeonggi-do,Suwon-si,overseas inflow,,,2656,2000000441,30s,Suwon-si,2020-03-28,13
+929,2000000442,30s,Gyeonggi-do,Gimpo-si,overseas inflow,,,2657,2000000442,30s,Gimpo-si,2020-03-28,13
+930,2000000444,20s,Gyeonggi-do,Gimpo-si,overseas inflow,,,2659,2000000444,20s,Gimpo-si,2020-03-28,13
+931,2000000445,50s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,2660,2000000445,50s,Pyeongtaek-si,2020-03-28,13
+932,2000000446,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,2661,2000000446,20s,Suwon-si,2020-03-28,13
+933,2000000447,30s,Gyeonggi-do,Paju-si,overseas inflow,,,2662,2000000447,30s,Paju-si,2020-03-28,13
+934,2000000448,20s,Gyeonggi-do,Goyang-si,overseas inflow,,,2663,2000000448,20s,Goyang-si,2020-03-28,13
+935,2000000449,20s,Gyeonggi-do,Goyang-si,overseas inflow,,,2664,2000000449,20s,Goyang-si,2020-03-28,13
+936,2000000450,60s,Gyeonggi-do,Bucheon-si,overseas inflow,,,2665,2000000450,60s,Bucheon-si,2020-03-28,13
+937,2000000451,20s,Gyeonggi-do,Yongin-si,overseas inflow,,,2666,2000000451,20s,Yongin-si,2020-03-28,13
+938,2000000452,30s,Gyeonggi-do,Yongin-si,overseas inflow,,,2667,2000000452,30s,Yongin-si,2020-03-28,13
+939,2000000456,20s,Gyeonggi-do,Guri-si,overseas inflow,,,2707,2000000456,20s,Guri-si,2020-03-29,13
+940,2000000458,60s,Gyeonggi-do,Yongin-si,overseas inflow,,,2709,2000000458,60s,Yongin-si,2020-03-29,13
+941,2000000459,60s,Gyeonggi-do,Suwon-si,overseas inflow,,,2710,2000000459,60s,Suwon-si,2020-03-29,13
+942,2000000460,60s,Gyeonggi-do,Suwon-si,overseas inflow,,,2711,2000000460,60s,Suwon-si,2020-03-29,13
+943,2000000463,20s,Gyeonggi-do,Uiwang-si,overseas inflow,,,2714,2000000463,20s,Uiwang-si,2020-03-29,13
+944,2000000464,50s,Gyeonggi-do,Yongin-si,overseas inflow,,,2715,2000000464,50s,Yongin-si,2020-03-29,13
+945,2000000467,50s,Gyeonggi-do,Suwon-si,overseas inflow,,,2739,2000000467,50s,Suwon-si,2020-03-30,14
+946,2000000468,40s,Gyeonggi-do,Suwon-si,overseas inflow,,,2740,2000000468,40s,Suwon-si,2020-03-30,14
+947,2000000469,30s,Gyeonggi-do,Suwon-si,overseas inflow,,,2741,2000000469,30s,Suwon-si,2020-03-30,14
+948,2000000472,50s,Gyeonggi-do,Suwon-si,overseas inflow,,,2744,2000000472,50s,Suwon-si,2020-03-30,14
+949,2000000474,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,2746,2000000474,20s,Suwon-si,2020-03-30,14
+950,2000000475,20s,Gyeonggi-do,Yongin-si,overseas inflow,,,2747,2000000475,20s,Yongin-si,2020-03-30,14
+951,2000000479,0s,Gyeonggi-do,Suwon-si,overseas inflow,,,2811,2000000479,0s,Suwon-si,2020-03-31,14
+952,2000000482,20s,Gyeonggi-do,Namyangju-si,overseas inflow,,,2814,2000000482,20s,Namyangju-si,2020-03-31,14
+953,2000000485,30s,Gyeonggi-do,Osan-si,overseas inflow,,,2817,2000000485,30s,Osan-si,2020-03-31,14
+954,2000000486,20s,Gyeonggi-do,Yongin-si,overseas inflow,,,2818,2000000486,20s,Yongin-si,2020-03-31,14
+955,2000000487,30s,Gyeonggi-do,Gunpo-si,overseas inflow,,,2819,2000000487,30s,Gunpo-si,2020-03-31,14
+956,2000000488,50s,Gyeonggi-do,Suwon-si,overseas inflow,,,2820,2000000488,50s,Suwon-si,2020-03-31,14
+957,2000000491,20s,Gyeonggi-do,Anyang-si,overseas inflow,,,2823,2000000491,20s,Anyang-si,2020-03-31,14
+958,2000000493,20s,Gyeonggi-do,Bucheon-si,overseas inflow,,,2825,2000000493,20s,Bucheon-si,2020-03-31,14
+959,2000000500,20s,Gyeonggi-do,Hwaseong-si,overseas inflow,,,2832,2000000500,20s,Hwaseong-si,2020-03-31,14
+960,2000000502,20s,Gyeonggi-do,Ansan-si,overseas inflow,,,2861,2000000502,20s,Ansan-si,2020-04-01,14
+961,2000000504,60s,Gyeonggi-do,Seongnam-si,overseas inflow,,,2863,2000000504,60s,Seongnam-si,2020-04-01,14
+962,2000000505,60s,Gyeonggi-do,Seongnam-si,overseas inflow,,,2864,2000000505,60s,Seongnam-si,2020-04-01,14
+963,2000000506,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,2865,2000000506,20s,Suwon-si,2020-04-01,14
+964,2000000507,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,2866,2000000507,20s,Suwon-si,2020-04-01,14
+965,2000000508,40s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,2867,2000000508,40s,Pyeongtaek-si,2020-04-01,14
+966,2000000509,50s,Gyeonggi-do,Namyangju-si,overseas inflow,,,2868,2000000509,50s,Namyangju-si,2020-04-01,14
+967,2000000510,20s,Gyeonggi-do,Goyang-si,overseas inflow,,,2869,2000000510,20s,Goyang-si,2020-04-01,14
+968,2000000519,20s,Gyeonggi-do,Uijeongbu-si,overseas inflow,,,2878,2000000519,20s,Uijeongbu-si,2020-04-01,14
+969,2000000520,20s,Gyeonggi-do,Uijeongbu-si,overseas inflow,,,2879,2000000520,20s,Uijeongbu-si,2020-04-01,14
+970,2000000537,20s,Gyeonggi-do,Gimpo-si,overseas inflow,,,2926,2000000537,20s,Gimpo-si,2020-04-02,14
+971,2000000538,20s,Gyeonggi-do,Gimpo-si,overseas inflow,,,2927,2000000538,20s,Gimpo-si,2020-04-02,14
+972,2000000539,30s,Gyeonggi-do,Goyang-si,overseas inflow,,,2928,2000000539,30s,Goyang-si,2020-04-02,14
+973,2000000541,50s,Gyeonggi-do,Namyangju-si,overseas inflow,,,2930,2000000541,50s,Namyangju-si,2020-04-02,14
+974,2000000542,40s,Gyeonggi-do,Gwangju-si,overseas inflow,,,2931,2000000542,40s,Gwangju-si,2020-04-02,14
+975,2000000547,20s,Gyeonggi-do,Gapyeong-gun,overseas inflow,,,2966,2000000547,20s,Gapyeong-gun,2020-04-03,14
+976,2000000551,20s,Gyeonggi-do,Hanam-si,overseas inflow,,,2970,2000000551,20s,Hanam-si,2020-04-03,14
+977,2000000559,20s,Gyeonggi-do,Icheon-si,overseas inflow,,,2978,2000000559,20s,Icheon-si,2020-04-03,14
+978,2000000563,50s,Gyeonggi-do,Seongnam-si,overseas inflow,,,3015,2000000563,50s,Seongnam-si,2020-04-04,14
+979,2000000564,20s,Gyeonggi-do,Suwon-si,overseas inflow,,,3016,2000000564,20s,Suwon-si,2020-04-04,14
+980,2000000567,20s,Gyeonggi-do,Seongnam-si,overseas inflow,,,3019,2000000567,20s,Seongnam-si,2020-04-04,14
+981,2000000568,20s,Gyeonggi-do,Seongnam-si,overseas inflow,,,3020,2000000568,20s,Seongnam-si,2020-04-04,14
+982,2000000573,20s,Gyeonggi-do,Goyang-si,overseas inflow,,,3025,2000000573,20s,Goyang-si,2020-04-04,14
+983,2000000574,20s,Gyeonggi-do,Siheung-si,overseas inflow,,,3026,2000000574,20s,Siheung-si,2020-04-04,14
+984,2000000577,20s,Gyeonggi-do,Yongin-si,overseas inflow,,,3056,2000000577,20s,Yongin-si,2020-04-05,14
+985,2000000579,30s,Gyeonggi-do,Goyang-si,overseas inflow,,,3058,2000000579,30s,Goyang-si,2020-04-05,14
+986,2000000580,20s,Gyeonggi-do,Yongin-si,overseas inflow,,,3059,2000000580,20s,Yongin-si,2020-04-05,14
+987,2000000585,60s,Gyeonggi-do,Namyangju-si,overseas inflow,,,3095,2000000585,60s,Namyangju-si,2020-04-06,15
+988,2000000588,20s,Gyeonggi-do,Namyangju-si,overseas inflow,,,3090,2000000588,20s,Namyangju-si,2020-04-06,15
+989,2000000593,20s,Gyeonggi-do,Bucheon-si,overseas inflow,,,3119,2000000593,20s,Bucheon-si,2020-04-07,15
+990,2000000597,20s,Gyeonggi-do,Namyangju-si,overseas inflow,,,3123,2000000597,20s,Namyangju-si,2020-04-07,15
+991,2000000598,20s,Gyeonggi-do,Anyang-si,overseas inflow,,,3124,2000000598,20s,Anyang-si,2020-04-07,15
+992,2000000600,20s,Gyeonggi-do,Anyang-si,overseas inflow,,,3145,2000000600,20s,Anyang-si,2020-04-08,15
+993,2000000601,30s,Gyeonggi-do,Anyang-si,overseas inflow,,,3146,2000000601,30s,Anyang-si,2020-04-08,15
+994,2000000602,20s,Gyeonggi-do,Gunpo-si,overseas inflow,,,3147,2000000602,20s,Gunpo-si,2020-04-08,15
+995,2000000605,20s,Gyeonggi-do,Hwaseong-si,overseas inflow,,,3150,2000000605,20s,Hwaseong-si,2020-04-08,15
+996,2000000606,20s,Gyeonggi-do,Gimpo-si,overseas inflow,,,3151,2000000606,20s,Gimpo-si,2020-04-08,15
+997,2000000611,30s,Gyeonggi-do,Suwon-si,overseas inflow,,,3172,2000000611,30s,Suwon-si,2020-04-09,15
+998,2000000612,20s,Gyeonggi-do,Bucheon-si,overseas inflow,,,3173,2000000612,20s,Bucheon-si,2020-04-09,15
+999,2000000615,0s,Gyeonggi-do,Gwangju-si,overseas inflow,,,3176,2000000615,0s,Gwangju-si,2020-04-09,15
+1000,2000000617,30s,Gyeonggi-do,Seongnam-si,overseas inflow,,,3193,2000000617,30s,Seongnam-si,2020-04-10,15
+1001,2000000621,20s,Gyeonggi-do,Hwaseong-si,overseas inflow,,,3186,2000000621,20s,Hwaseong-si,2020-04-10,15
+1002,2000000626,30s,Gyeonggi-do,Seongnam-si,overseas inflow,,,3197,2000000626,30s,Seongnam-si,2020-04-11,15
+1003,2000000630,20s,Gyeonggi-do,Seongnam-si,overseas inflow,,,3219,2000000630,20s,Seongnam-si,2020-04-12,15
+1004,2000000631,50s,Gyeonggi-do,Yangju-si,overseas inflow,,,3220,2000000631,50s,Yangju-si,2020-04-12,15
+1005,2000000632,60s,Gyeonggi-do,Anseong-si,overseas inflow,,,3221,2000000632,60s,Anseong-si,2020-04-12,15
+1006,2000000633,70s,Gyeonggi-do,Guri-si,overseas inflow,,,3222,2000000633,70s,Guri-si,2020-04-12,15
+1007,2000000634,20s,Gyeonggi-do,Gimpo-si,overseas inflow,,,3223,2000000634,20s,Gimpo-si,2020-04-12,15
+1008,2000000639,50s,Gyeonggi-do,Namyangju-si,overseas inflow,,,3228,2000000639,50s,Namyangju-si,2020-04-13,16
+1009,2000000642,30s,Gyeonggi-do,Gwangmyeong-si,overseas inflow,,,3241,2000000642,30s,Gwangmyeong-si,2020-04-14,16
+1010,2000000646,30s,Gyeonggi-do,Goyang-si,overseas inflow,,,3245,2000000646,30s,Goyang-si,2020-04-14,16
+1011,2000000648,30s,Gyeonggi-do,Yongin-si,overseas inflow,,,3260,2000000648,30s,Yongin-si,2020-04-15,16
+1012,2000000649,10s,Gyeonggi-do,Yongin-si,overseas inflow,,,3261,2000000649,10s,Yongin-si,2020-04-15,16
+1013,2000000655,20s,Gyeonggi-do,Yongin-si,overseas inflow,,hospital,3307,2000000655,20s,Yongin-si,2020-04-19,16
+1014,2000000655,,Incheon,Jung-gu,,,airport,3307,2000000655,20s,Yongin-si,2020-04-19,16
+1015,2000000657,50s,Gyeonggi-do,Namyangju-si,overseas inflow,,,3314,2000000657,50s,Namyangju-si,2020-04-20,17
+1016,2000000663,20s,Gyeonggi-do,Paju-si,overseas inflow,,,3350,2000000663,20s,Paju-si,2020-04-25,17
+1017,2000000664,20s,Gyeonggi-do,Seongnam-si,overseas inflow,,,3348,2000000664,20s,Seongnam-si,2020-04-25,17
+1018,2000000665,50s,Gyeonggi-do,Yongin-si,overseas inflow,,airport,3349,2000000665,50s,Yongin-si,2020-04-25,17
+1019,2000000665,50s,Gyeonggi-do,Yongin-si,overseas inflow,,hospital,3349,2000000665,50s,Yongin-si,2020-04-25,17
+1020,2000000665,,Incheon,Jung-gu,,,airport,3349,2000000665,50s,Yongin-si,2020-04-25,17
+1021,2000000666,30s,Gyeonggi-do,Suwon-si,overseas inflow,,,3353,2000000666,30s,Suwon-si,2020-04-25,17
+1022,2000000666,,Incheon,Jung-gu,,,airport,3353,2000000666,30s,Suwon-si,2020-04-25,17
+1023,2000000666,,Incheon,Namdong-gu,,,airport,3353,2000000666,30s,Suwon-si,2020-04-25,17
+1024,2000000667,30s,Gyeonggi-do,Seongnam-si,overseas inflow,,post_office,3352,2000000667,30s,Seongnam-si,2020-04-25,17
+1025,2000000668,20s,Gyeonggi-do,Yongin-si,overseas inflow,,hospital,3345,2000000668,20s,Yongin-si,2020-04-25,17
+1026,2000000668,,Incheon,Jung-gu,,,airport,3345,2000000668,20s,Yongin-si,2020-04-25,17
+1027,2000000671,20s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,3356,2000000671,20s,Pyeongtaek-si,2020-04-26,17
+1028,2000000672,20s,Gyeonggi-do,Anyang-si,overseas inflow,,,3357,2000000672,20s,Anyang-si,2020-04-26,17
+1029,2000000673,50s,Gyeonggi-do,Yongin-si,overseas inflow,,hospital,3362,2000000673,50s,Yongin-si,2020-04-27,18
+1030,2000000674,20s,Gyeonggi-do,Yongin-si,overseas inflow,,hospital,3363,2000000674,20s,Yongin-si,2020-04-27,18
+1031,2000000674,,Incheon,Jung-gu,,,airport,3363,2000000674,20s,Yongin-si,2020-04-27,18
+1032,2000000676,20s,Gyeonggi-do,Yongin-si,overseas inflow,,hospital,3369,2000000676,20s,Yongin-si,2020-04-28,18
+1033,2000000677,20s,Gyeonggi-do,Gwangmyeong-si,overseas inflow,,,3374,2000000677,20s,Gwangmyeong-si,2020-04-29,18
+1034,2000000678,20s,Gyeonggi-do,Hanam-si,overseas inflow,,,3378,2000000678,20s,Hanam-si,2020-04-30,18
+1035,2000000679,20s,Gyeonggi-do,Paju-si,overseas inflow,,,3390,2000000679,20s,Paju-si,2020-05-02,18
+1036,2000000680,40s,Gyeonggi-do,Paju-si,overseas inflow,,,3389,2000000680,40s,Paju-si,2020-05-02,18
+1037,2000000681,60s,Gyeonggi-do,Gimpo-si,overseas inflow,,,3391,2000000681,60s,Gimpo-si,2020-05-03,18
+1038,2000000684,40s,Gyeonggi-do,Gwangmyeong-si,overseas inflow,,,3411,2000000684,40s,Gwangmyeong-si,2020-05-08,19
+1039,2000000687,50s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,3425,2000000687,50s,Pyeongtaek-si,2020-05-08,19
+1040,2000000708,30s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,3532,2000000708,30s,Pyeongtaek-si,2020-05-12,20
+1041,2000000715,40s,Gyeonggi-do,Yangju-si,overseas inflow,,,3581,2000000715,40s,Yangju-si,2020-05-14,20
+1042,2000000716,10s,Gyeonggi-do,Yangju-si,overseas inflow,,,3582,2000000716,10s,Yangju-si,2020-05-14,20
+1043,2000000719,60s,Gyeonggi-do,Gimpo-si,overseas inflow,,,3592,2000000719,60s,Gimpo-si,2020-05-15,20
+1044,2000000720,30s,Gyeonggi-do,Hanam-si,overseas inflow,,,3593,2000000720,30s,Hanam-si,2020-05-15,20
+1045,2000000723,20s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,3610,2000000723,20s,Pyeongtaek-si,2020-05-17,20
+1046,2000000729,10s,Gyeonggi-do,Gunpo-si,overseas inflow,,,3647,2000000729,10s,Gunpo-si,2020-05-19,21
+1047,2000000730,40s,Gyeonggi-do,Gunpo-si,overseas inflow,,,3648,2000000730,40s,Gunpo-si,2020-05-19,21
+1048,2000000757,30s,Gyeonggi-do,Siheung-si,overseas inflow,,,3713,2000000757,30s,Siheung-si,2020-05-23,21
+1049,2000000758,30s,Gyeonggi-do,Gimpo-si,overseas inflow,2000000749.0,,3714,2000000758,30s,Gimpo-si,2020-05-23,21
+1050,2000000761,50s,Gyeonggi-do,Hwaseong-si,overseas inflow,,,3717,2000000761,50s,Hwaseong-si,2020-05-23,21
+1051,2000000767,40s,Gyeonggi-do,Goyang-si,overseas inflow,,,3734,2000000767,40s,Goyang-si,2020-05-24,21
+1052,2000000803,10s,Gyeonggi-do,Yangju-si,overseas inflow,,,3907,2000000803,10s,Yangju-si,2020-05-28,22
+1053,2000000804,40s,Gyeonggi-do,Suwon-si,overseas inflow,,,3908,2000000804,40s,Suwon-si,2020-05-28,22
+1054,2000000805,20s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,3909,2000000805,20s,Pyeongtaek-si,2020-05-28,22
+1055,2000000818,50s,Gyeonggi-do,Uiwang-si,overseas inflow,,,3942,2000000818,50s,Uiwang-si,2020-05-29,22
+1056,2000000830,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,3954,2000000830,,Pyeongtaek-si,2020-05-29,22
+1057,2000000831,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,3955,2000000831,,Pyeongtaek-si,2020-05-29,22
+1058,2000000836,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,3976,2000000836,,Hwaseong-si,2020-05-30,22
+1059,2000000837,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,3968,2000000837,,Hwaseong-si,2020-05-30,22
+1060,2000000838,,Gyeonggi-do,Namyangju-si,overseas inflow,,,3967,2000000838,,Namyangju-si,2020-05-30,22
+1061,2000000852,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4000,2000000852,,Pyeongtaek-si,2020-05-31,22
+1062,2000000866,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,4024,2000000866,,Hwaseong-si,2020-06-01,23
+1063,2000000882,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4071,2000000882,,Pyeongtaek-si,2020-06-02,23
+1064,2000000887,,Gyeonggi-do,Siheung-si,overseas inflow,,,4106,2000000887,,Siheung-si,2020-06-03,23
+1065,2000000895,,Gyeonggi-do,Uijeongbu-si,overseas inflow,,,4114,2000000895,,Uijeongbu-si,2020-06-03,23
+1066,2000000904,,Gyeonggi-do,Bucheon-si,overseas inflow,,,4145,2000000904,,Bucheon-si,2020-06-04,23
+1067,2000000906,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,4147,2000000906,,Hwaseong-si,2020-06-04,23
+1068,2000000913,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,4179,2000000913,,Hwaseong-si,2020-06-05,23
+1069,2000000936,,Gyeonggi-do,Yongin-si,overseas inflow,,,4279,2000000936,,Yongin-si,2020-06-07,23
+1070,2000000946,,Gyeonggi-do,Osan-si,overseas inflow,,,4312,2000000946,,Osan-si,2020-06-08,24
+1071,2000000976,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4347,2000000976,,Pyeongtaek-si,2020-06-09,24
+1072,2000000983,,Gyeonggi-do,Uijeongbu-si,overseas inflow,,,4420,2000000983,,Uijeongbu-si,2020-06-10,24
+1073,2000000994,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4395,2000000994,,Pyeongtaek-si,2020-06-10,24
+1074,2000001017,,Gyeonggi-do,Yongin-si,overseas inflow,,,4517,2000001017,,Yongin-si,2020-06-12,24
+1075,2000001028,,Gyeonggi-do,Anyang-si,overseas inflow,,,4548,2000001028,,Anyang-si,2020-06-13,24
+1076,2000001040,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4582,2000001040,,Pyeongtaek-si,2020-06-14,24
+1077,2000001044,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,4586,2000001044,,Hwaseong-si,2020-06-14,24
+1078,2000001047,,Gyeonggi-do,Suwon-si,overseas inflow,,,4608,2000001047,,Suwon-si,2020-06-15,25
+1079,2000001054,,Gyeonggi-do,Paju-si,overseas inflow,,,4640,2000001054,,Paju-si,2020-06-16,25
+1080,2000001055,,Gyeonggi-do,Suwon-si,overseas inflow,,,4641,2000001055,,Suwon-si,2020-06-16,25
+1081,2000001078,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4700,2000001078,,Pyeongtaek-si,2020-06-17,25
+1082,2000001086,,Gyeonggi-do,Yangju-si,overseas inflow,,,4734,2000001086,,Yangju-si,2020-06-18,25
+1083,2000001090,,Gyeonggi-do,Namyangju-si,overseas inflow,,,4738,2000001090,,Namyangju-si,2020-06-18,25
+1084,2000001093,,Gyeonggi-do,Paju-si,overseas inflow,,,4774,2000001093,,Paju-si,2020-06-19,25
+1085,2000001097,,Gyeonggi-do,Seongnam-si,overseas inflow,,,4778,2000001097,,Seongnam-si,2020-06-19,25
+1086,2000001101,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4782,2000001101,,Pyeongtaek-si,2020-06-19,25
+1087,2000001102,,Gyeonggi-do,Gwangju-si,overseas inflow,,,4783,2000001102,,Gwangju-si,2020-06-19,25
+1088,2000001103,,Gyeonggi-do,Anyang-si,overseas inflow,,,4787,2000001103,,Anyang-si,2020-06-19,25
+1089,2000001104,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,4788,2000001104,,Hwaseong-si,2020-06-19,25
+1090,2000001106,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4790,2000001106,,Pyeongtaek-si,2020-06-19,25
+1091,2000001114,,Gyeonggi-do,Gunpo-si,overseas inflow,,,4830,2000001114,,Gunpo-si,2020-06-20,25
+1092,2000001117,,Gyeonggi-do,Suwon-si,overseas inflow,,,4813,2000001117,,Suwon-si,2020-06-20,25
+1093,2000001122,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,4844,2000001122,,Hwaseong-si,2020-06-21,25
+1094,2000001124,,Gyeonggi-do,Paju-si,overseas inflow,,,4846,2000001124,,Paju-si,2020-06-21,25
+1095,2000001125,,Gyeonggi-do,Paju-si,overseas inflow,,,4847,2000001125,,Paju-si,2020-06-21,25
+1096,2000001126,,Gyeonggi-do,Namyangju-si,overseas inflow,,,4858,2000001126,,Namyangju-si,2020-06-22,26
+1097,2000001127,,Gyeonggi-do,Namyangju-si,overseas inflow,,,4859,2000001127,,Namyangju-si,2020-06-22,26
+1098,2000001129,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,4861,2000001129,,Hwaseong-si,2020-06-22,26
+1099,2000001135,,Gyeonggi-do,Goyang-si,overseas inflow,,,4894,2000001135,,Goyang-si,2020-06-23,26
+1100,2000001137,,Gyeonggi-do,Paju-si,overseas inflow,,,4896,2000001137,,Paju-si,2020-06-23,26
+1101,2000001148,,Gyeonggi-do,Icheon-si,overseas inflow,,,4953,2000001148,,Icheon-si,2020-06-25,26
+1102,2000001149,,Gyeonggi-do,Hwaseong-si,overseas inflow,,,4954,2000001149,,Hwaseong-si,2020-06-25,26
+1103,2000001155,,Gyeonggi-do,Ansan-si,overseas inflow,,,4986,2000001155,,Ansan-si,2020-06-26,26
+1104,2000001159,,Gyeonggi-do,Suwon-si,overseas inflow,,,4990,2000001159,,Suwon-si,2020-06-26,26
+1105,2000001160,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,4991,2000001160,,Pyeongtaek-si,2020-06-26,26
+1106,2000001163,,Gyeonggi-do,Ansan-si,overseas inflow,,,4994,2000001163,,Ansan-si,2020-06-26,26
+1107,2000001164,,Gyeonggi-do,Gwangju-si,overseas inflow,,,4995,2000001164,,Gwangju-si,2020-06-26,26
+1108,2000001168,,Gyeonggi-do,Gunpo-si,overseas inflow,,,4999,2000001168,,Gunpo-si,2020-06-26,26
+1109,2000001176,,Gyeonggi-do,Ansan-si,overseas inflow,,,5035,2000001176,,Ansan-si,2020-06-27,26
+1110,2000001184,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,5043,2000001184,,Pyeongtaek-si,2020-06-27,26
+1111,2000001185,,Gyeonggi-do,Pyeongtaek-si,overseas inflow,,,5044,2000001185,,Pyeongtaek-si,2020-06-27,26
+1112,2000001191,,Gyeonggi-do,Gwangju-si,overseas inflow,,,5083,2000001191,,Gwangju-si,2020-06-28,26
+1113,2000001192,,Gyeonggi-do,Ansan-si,overseas inflow,,,5084,2000001192,,Ansan-si,2020-06-28,26
+1114,3001000008,30s,Gangwon-do,Gangneung-si,overseas inflow,,,3012,3001000008,30s,Gangneung-si,2020-04-04,14
+1115,3001000009,20s,Gangwon-do,Gangneung-si,overseas inflow,,,3494,3001000009,20s,Gangneung-si,2020-05-11,20
+1116,3005000003,40s,Gangwon-do,Sokcho-si,overseas inflow,,,2705,3005000003,40s,Sokcho-si,2020-03-29,13
+1117,3009000018,20s,Gangwon-do,Wonju-si,overseas inflow,,,2408,3009000018,20s,Wonju-si,2020-03-23,13
+1118,3009000019,60s,Gangwon-do,Wonju-si,overseas inflow,,,2649,3009000019,60s,Wonju-si,2020-03-28,13
+1119,3013000003,40s,Gangwon-do,Chuncheon-si,overseas inflow,,,2587,3013000003,40s,Chuncheon-si,2020-03-27,13
+1120,3013000004,50s,Gangwon-do,Chuncheon-si,overseas inflow,,,2650,3013000004,50s,Chuncheon-si,2020-03-28,13
+1121,3013000005,60s,Gangwon-do,Chuncheon-si,overseas inflow,,,2706,3013000005,60s,Chuncheon-si,2020-03-29,13
+1122,3013000006,20s,Gangwon-do,Chuncheon-si,overseas inflow,,,3053,3013000006,20s,Chuncheon-si,2020-04-05,14
+1123,3013000007,30s,Gangwon-do,Chuncheon-si,overseas inflow,,,3087,3013000007,30s,Chuncheon-si,2020-04-06,15
+1124,3010000001,30s,Gangwon-do,Inje-gun,overseas inflow,,,2455,3010000001,30s,Inje-gun,2020-03-24,13
+1125,3018000001,30s,Gangwon-do,Hoengseong-gun,overseas inflow,,,2834,3018000001,30s,Hoengseong-gun,2020-03-31,14
+1126,3008000001,30s,Gangwon-do,Yeongwol-gun,overseas inflow,,,3294,3008000001,30s,Yeongwol-gun,2020-04-17,16
+1127,4000000039,50s,Chungcheongbuk-do,Jeungpyeong-gun,overseas inflow,,,2502,4000000039,50s,Jeungpyeong-gun,2020-03-25,13
+1128,4000000040,10s,Chungcheongbuk-do,Cheongju-si,overseas inflow,,,2550,4000000040,10s,Cheongju-si,2020-03-26,13
+1129,4000000043,60s,Chungcheongbuk-do,Chungju-si,overseas inflow,,,2703,4000000043,60s,Chungju-si,2020-03-29,13
+1130,4000000044,20s,Chungcheongbuk-do,Eumseong-gun,overseas inflow,,,2704,4000000044,20s,Eumseong-gun,2020-03-29,13
+1131,4000000045,0s,Chungcheongbuk-do,Chungju-si,overseas inflow,,hospital,2907,4000000045,0s,Chungju-si,2020-04-02,14
+1132,4000000045,,Incheon,Jung-gu,,,airport,2907,4000000045,0s,Chungju-si,2020-04-02,14
+1133,4000000046,30s,Chungcheongbuk-do,Cheongju-si,overseas inflow,,,3397,4000000046,30s,Cheongju-si,2020-05-06,19
+1134,4000000047,30s,Chungcheongbuk-do,Chungju-si,overseas inflow,,,3402,4000000047,30s,Chungju-si,2020-05-07,19
+1135,4000000051,40s,Chungcheongbuk-do,Cheongju-si,overseas inflow,,hospital,3609,4000000051,40s,Cheongju-si,2020-05-17,20
+1136,4000000053,10s,Chungcheongbuk-do,Cheongju-si,overseas inflow,,,4227,4000000053,10s,Cheongju-si,2020-06-06,23
+1137,4000000054,40s,Chungcheongbuk-do,Eumseong-gun,overseas inflow,,,4849,4000000054,40s,Eumseong-gun,2020-06-21,25
+1138,4000000055,10s,Chungcheongbuk-do,Cheongju-si,overseas inflow,,,5000,4000000055,10s,Cheongju-si,2020-06-26,26
+1139,4100000116,60s,Chungcheongnam-do,Hongseong-gun,overseas inflow,4100000118.0,public_transportation,2133,4100000116,60s,Hongseong-gun,2020-03-17,12
+1140,4100000116,60s,Chungcheongnam-do,Hongseong-gun,overseas inflow,4100000118.0,etc,2133,4100000116,60s,Hongseong-gun,2020-03-17,12
+1141,4100000116,60s,Chungcheongnam-do,Hongseong-gun,overseas inflow,4100000118.0,hospital,2133,4100000116,60s,Hongseong-gun,2020-03-17,12
+1142,4100000116,,Incheon,Jung-gu,,,airport,2133,4100000116,60s,Hongseong-gun,2020-03-17,12
+1143,4100000118,60s,Chungcheongnam-do,Hongseong-gun,overseas inflow,4100000116.0,public_transportation,2135,4100000118,60s,Hongseong-gun,2020-03-17,12
+1144,4100000118,60s,Chungcheongnam-do,Hongseong-gun,overseas inflow,4100000116.0,etc,2135,4100000118,60s,Hongseong-gun,2020-03-17,12
+1145,4100000118,,Incheon,Jung-gu,,,airport,2135,4100000118,60s,Hongseong-gun,2020-03-17,12
+1146,4100000123,40s,Chungcheongnam-do,Cheonan-si,overseas inflow,,etc,2463,4100000123,40s,Cheonan-si,2020-03-24,13
+1147,4100000124,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,,,2511,4100000124,30s,Cheonan-si,2020-03-25,13
+1148,4100000126,30s,Chungcheongnam-do,Buyeo-gun,overseas inflow,,,2607,4100000126,30s,Buyeo-gun,2020-03-27,13
+1149,4100000127,10s,Chungcheongnam-do,Cheonan-si,overseas inflow,,,2673,4100000127,10s,Cheonan-si,2020-03-28,13
+1150,4100000129,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,,,2836,4100000129,30s,Cheonan-si,2020-03-31,14
+1151,4100000138,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,,,3115,4100000138,30s,Cheonan-si,2020-04-07,15
+1152,4100000140,60s,Chungcheongnam-do,Cheonan-si,overseas inflow,,etc,3295,4100000140,60s,Cheonan-si,2020-04-17,16
+1153,4100000140,60s,Chungcheongnam-do,Cheonan-si,overseas inflow,,hospital,3295,4100000140,60s,Cheonan-si,2020-04-17,16
+1154,4100000140,,Incheon,Jung-gu,,,airport,3295,4100000140,60s,Cheonan-si,2020-04-17,16
+1155,4100000142,10s,Chungcheongnam-do,Nonsan-si,overseas inflow,,hospital,3358,4100000142,10s,Nonsan-si,2020-04-26,17
+1156,4100000142,10s,Chungcheongnam-do,Nonsan-si,overseas inflow,,etc,3358,4100000142,10s,Nonsan-si,2020-04-26,17
+1157,4100000142,,Incheon,Jung-gu,,,airport,3358,4100000142,10s,Nonsan-si,2020-04-26,17
+1158,4100000143,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,,etc,3370,4100000143,30s,Cheonan-si,2020-04-28,18
+1159,4100000143,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,,hospital,3370,4100000143,30s,Cheonan-si,2020-04-28,18
+1160,4100000143,,Incheon,Jung-gu,,,airport,3370,4100000143,30s,Cheonan-si,2020-04-28,18
+1161,4100000149,20s,Chungcheongnam-do,Hongseong-gun,overseas inflow,,airport,4307,4100000149,20s,Hongseong-gun,2020-06-08,24
+1162,4100000149,20s,Chungcheongnam-do,Hongseong-gun,overseas inflow,,etc,4307,4100000149,20s,Hongseong-gun,2020-06-08,24
+1163,4100000149,20s,Chungcheongnam-do,Hongseong-gun,overseas inflow,,hospital,4307,4100000149,20s,Hongseong-gun,2020-06-08,24
+1164,4100000167,20s,Chungcheongnam-do,Asan-si,overseas inflow,,etc,5046,4100000167,20s,Asan-si,2020-06-27,26
+1165,4100000167,20s,Chungcheongnam-do,Asan-si,overseas inflow,,hospital,5046,4100000167,20s,Asan-si,2020-06-27,26
+1166,4100000168,20s,Chungcheongnam-do,Buyeo-gun,overseas inflow,,hospital,5113,4100000168,20s,Buyeo-gun,2020-06-30,27
+1167,4100000168,20s,Chungcheongnam-do,Buyeo-gun,overseas inflow,,etc,5113,4100000168,20s,Buyeo-gun,2020-06-30,27
+1168,5000000001,60s,Jeollabuk-do,Gunsan-si,overseas inflow,,restaurant,5,5000000001,60s,Gunsan-si,2020-01-30,5
+1169,5000000001,60s,Jeollabuk-do,Gunsan-si,overseas inflow,,hospital,5,5000000001,60s,Gunsan-si,2020-01-30,5
+1170,5000000001,60s,Jeollabuk-do,Gunsan-si,overseas inflow,,etc,5,5000000001,60s,Gunsan-si,2020-01-30,5
+1171,5000000008,60s,Jeollabuk-do,Gunsan-si,overseas inflow,,,2136,5000000008,60s,Gunsan-si,2020-03-17,12
+1172,5000000009,60s,Jeollabuk-do,Gunsan-si,overseas inflow,,,2137,5000000009,60s,Gunsan-si,2020-03-17,12
+1173,5000000011,20s,Jeollabuk-do,Iksan-si,overseas inflow,,,2674,5000000011,20s,Iksan-si,2020-03-28,13
+1174,5000000012,20s,Jeollabuk-do,Jeonju-si,overseas inflow,,,2675,5000000012,20s,Jeonju-si,2020-03-28,13
+1175,5000000013,20s,Jeollabuk-do,Jeonju-si,overseas inflow,,,2718,5000000013,20s,Jeonju-si,2020-03-29,13
+1176,5000000015,20s,Jeollabuk-do,Jeonju-si,overseas inflow,,,2909,5000000015,20s,Jeonju-si,2020-04-02,14
+1177,5000000017,20s,Jeollabuk-do,Jeonju-si,overseas inflow,,,3116,5000000017,20s,Jeonju-si,2020-04-07,15
+1178,5000000018,,Jeollabuk-do,Gimje-si,overseas inflow,,,3347,5000000018,,Gimje-si,2020-04-25,17
+1179,5000000019,30s,Jeollabuk-do,Gunsan-si,overseas inflow,,,3401,5000000019,30s,Gunsan-si,2020-05-07,19
+1180,5000000023,30s,Jeollabuk-do,etc,overseas inflow,,,4786,5000000023,30s,etc,2020-06-19,25
+1181,5000000025,40s,Jeollabuk-do,etc,overseas inflow,,,4869,5000000025,40s,etc,2020-06-23,26
+1182,5100000006,40s,Jeollanam-do,Muan-gun,overseas inflow,,hospital,2348,5100000006,40s,Muan-gun,2020-03-21,12
+1183,5100000009,20s,Jeollanam-do,Mokpo-si,overseas inflow,,,2672,5100000009,20s,Mokpo-si,2020-03-28,13
+1184,5100000010,40s,Jeollanam-do,Suncheon-si,overseas inflow,,,2736,5100000010,40s,Suncheon-si,2020-03-30,14
+1185,5100000012,20s,Jeollanam-do,Yeosu-si,overseas inflow,,,2840,5100000012,20s,Yeosu-si,2020-03-31,14
+1186,5100000014,50s,Jeollanam-do,Mokpo-si,overseas inflow,,,2856,5100000014,50s,Mokpo-si,2020-04-01,14
+1187,5100000015,40s,Jeollanam-do,Mokpo-si,overseas inflow,,,2910,5100000015,40s,Mokpo-si,2020-04-02,14
+1188,5100000016,60s,Jeollanam-do,etc,overseas inflow,,,3383,5100000016,60s,etc,2020-05-02,18
+1189,5100000018,20s,Jeollanam-do,etc,overseas inflow,,,3580,5100000018,20s,etc,2020-05-14,20
+1190,5100000019,50s,Jeollanam-do,etc,overseas inflow,,,3940,5100000019,50s,etc,2020-05-29,22
+1191,5100000020,30s,Jeollanam-do,etc,overseas inflow,,,3998,5100000020,30s,etc,2020-05-31,22
+1192,5100000024,40s,Jeollanam-do,etc,overseas inflow,,,5051,5100000024,40s,etc,2020-06-28,26
+1193,6001000632,30s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,,,3341,6001000632,30s,Gyeongsan-si,2020-04-24,17
+1194,6001000634,0s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,,,3496,6001000634,0s,Gyeongsan-si,2020-05-11,20
+1195,6001000635,20s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,,,3556,6001000635,20s,Gyeongsan-si,2020-05-13,20
+1196,6001000636,20s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,,,3840,6001000636,20s,Gyeongsan-si,2020-05-27,22
+1197,6001000638,30s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,,,4848,6001000638,30s,Gyeongsan-si,2020-06-21,25
+1198,6001000639,50s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,,,5089,6001000639,50s,Gyeongsan-si,2020-06-29,27
+1199,6002000034,20s,Gyeongsangbuk-do,Gyeongju-si,overseas inflow,,,2357,6002000034,20s,Gyeongju-si,2020-03-21,12
+1200,6002000049,20s,Gyeongsangbuk-do,Gyeongju-si,overseas inflow,,,3279,6002000049,20s,Gyeongju-si,2020-04-16,16
+1201,6002000051,30s,Gyeongsangbuk-do,Gyeongju-si,overseas inflow,,hospital,4902,6002000051,30s,Gyeongju-si,2020-06-23,26
+1202,6002000051,,Incheon,Jung-gu,,,airport,4902,6002000051,30s,Gyeongju-si,2020-06-23,26
+1203,6003000009,20s,Gyeongsangbuk-do,Goryeong-gun,overseas inflow,,,2904,6003000009,20s,Goryeong-gun,2020-04-02,14
+1204,6004000061,30s,Gyeongsangbuk-do,Gumi-si,overseas inflow,,,2458,6004000061,30s,Gumi-si,2020-03-24,13
+1205,6004000064,20s,Gyeongsangbuk-do,Gumi-si,overseas inflow,,,2671,6004000064,20s,Gumi-si,2020-03-28,13
+1206,6004000065,40s,Gyeongsangbuk-do,Gumi-si,overseas inflow,,,2857,6004000065,40s,Gumi-si,2020-04-01,14
+1207,6004000066,30s,Gyeongsangbuk-do,Gumi-si,overseas inflow,,,2858,6004000066,30s,Gumi-si,2020-04-01,14
+1208,6004000067,20s,Gyeongsangbuk-do,Gumi-si,overseas inflow,,,2604,6004000067,20s,Gumi-si,2020-03-27,13
+1209,6004000068,60s,Gyeongsangbuk-do,Gumi-si,overseas inflow,,,3117,6004000068,60s,Gumi-si,2020-04-07,15
+1210,6006000023,30s,Gyeongsangbuk-do,Gimcheon-si,overseas inflow,,,2777,6006000023,30s,Gimcheon-si,2020-03-30,14
+1211,6006000024,20s,Gyeongsangbuk-do,Gimcheon-si,overseas inflow,,,2734,6006000024,20s,Gimcheon-si,2020-03-30,14
+1212,6010000021,60s,Gyeongsangbuk-do,Seongju-gun,overseas inflow,,,2352,6010000021,60s,Seongju-gun,2020-03-21,12
+1213,6010000022,20s,Gyeongsangbuk-do,Seongju-gun,overseas inflow,,,2389,6010000022,20s,Seongju-gun,2020-03-22,12
+1214,6013000002,40s,Gyeongsangbuk-do,Yeongyang-gun,overseas inflow,,,2732,6013000002,40s,Yeongyang-gun,2020-03-30,14
+1215,6023000053,20s,Gyeongsangbuk-do,Pohang-si,overseas inflow,,,4058,6023000053,20s,Pohang-si,2020-06-02,23
+1216,6100000009,30s,Gyeongsangnam-do,Geoje-si,overseas inflow,,,241,6100000009,30s,Geoje-si,2020-02-23,8
+1217,6100000085,30s,Gyeongsangnam-do,Changwon-si,overseas inflow,,hospital,2047,6100000085,30s,Changwon-si,2020-03-16,12
+1218,6100000090,40s,Gyeongsangnam-do,Yangsan-si,overseas inflow,,store,2560,6100000090,40s,Yangsan-si,2020-03-26,13
+1219,6100000090,40s,Gyeongsangnam-do,Yangsan-si,overseas inflow,,hospital,2560,6100000090,40s,Yangsan-si,2020-03-26,13
+1220,6100000090,,Incheon,Jung-gu,,,airport,2560,6100000090,40s,Yangsan-si,2020-03-26,13
+1221,6100000090,,Seoul,Gangseo-gu,,,airport,2560,6100000090,40s,Yangsan-si,2020-03-26,13
+1222,6100000090,,Busan,Gangseo-gu,,,airport,2560,6100000090,40s,Yangsan-si,2020-03-26,13
+1223,6100000091,20s,Gyeongsangnam-do,Gimhae-si,overseas inflow,,,2676,6100000091,20s,Gimhae-si,2020-03-28,13
+1224,6100000092,40s,Gyeongsangnam-do,Changwon-si,overseas inflow,,,2610,6100000092,40s,Changwon-si,2020-03-28,13
+1225,6100000094,20s,Gyeongsangnam-do,Gimhae-si,overseas inflow,,,2719,6100000094,20s,Gimhae-si,2020-03-29,13
+1226,6100000095,50s,Gyeongsangnam-do,Changwon-si,overseas inflow,,,2310,6100000095,50s,Changwon-si,2020-03-20,12
+1227,6100000096,60s,Gyeongsangnam-do,Changwon-si,overseas inflow,,,2844,6100000096,60s,Changwon-si,2020-03-31,14
+1228,6100000101,40s,Gyeongsangnam-do,Yangsan-si,overseas inflow,,,2849,6100000101,40s,Yangsan-si,2020-03-31,14
+1229,6100000102,20s,Gyeongsangnam-do,Gimhae-si,overseas inflow,,,2850,6100000102,20s,Gimhae-si,2020-03-31,14
+1230,6100000105,20s,Gyeongsangnam-do,Gimhae-si,overseas inflow,,,2853,6100000105,20s,Gimhae-si,2020-04-01,14
+1231,6100000106,20s,Gyeongsangnam-do,Sacheon-si,overseas inflow,,,2901,6100000106,20s,Sacheon-si,2020-04-02,14
+1232,6100000108,10s,Gyeongsangnam-do,Sacheon-si,overseas inflow,,,3006,6100000108,10s,Sacheon-si,2020-04-04,14
+1233,6100000113,30s,Gyeongsangnam-do,Geoje-si,overseas inflow,,,3143,6100000113,30s,Geoje-si,2020-04-08,15
+1234,6100000114,0s,Gyeongsangnam-do,Jinju-si,overseas inflow,6100000103.0,,3144,6100000114,0s,Jinju-si,2020-04-08,15
+1235,6100000117,50s,Gyeongsangnam-do,Geoje-si,overseas inflow,,,3495,6100000117,50s,Geoje-si,2020-05-11,20
+1236,6100000119,30s,Gyeongsangnam-do,Geoje-si,overseas inflow,,,3601,6100000119,30s,Geoje-si,2020-05-16,20
+1237,6100000120,40s,Gyeongsangnam-do,Gimhae-si,overseas inflow,,,3602,6100000120,40s,Gimhae-si,2020-05-16,20
+1238,6100000128,40s,Gyeongsangnam-do,Geoje-si,overseas inflow,,,4578,6100000128,40s,Geoje-si,2020-06-14,24
+1239,6100000129,40s,Gyeongsangnam-do,Geoje-si,overseas inflow,,,4579,6100000129,40s,Geoje-si,2020-06-14,24
+1240,6100000130,,Gyeongsangnam-do,Hapcheon-gun,overseas inflow,,,4604,6100000130,,Hapcheon-gun,2020-06-15,25
+1241,6100000131,40s,Gyeongsangnam-do,Geoje-si,overseas inflow,,,4605,6100000131,40s,Geoje-si,2020-06-15,25
+1242,6100000132,30s,Gyeongsangnam-do,Gimhae-si,overseas inflow,,,4822,6100000132,30s,Gimhae-si,2020-06-20,25
+1243,6100000133,30s,Gyeongsangnam-do,Yangsan-si,overseas inflow,,,5077,6100000133,30s,Yangsan-si,2020-06-28,26
+1244,6100000133,,Incheon,Jung-gu,,,airport,5077,6100000133,30s,Yangsan-si,2020-06-28,26
+1245,7000000005,20s,Jeju-do,Jeju-do,overseas inflow,,,2464,7000000005,20s,Jeju-do,2020-03-24,13
+1246,7000000007,20s,Jeju-do,Jeju-do,overseas inflow,,,2512,7000000007,20s,Jeju-do,2020-03-25,13
+1247,7000000008,10s,Jeju-do,Jeju-do,overseas inflow,,,2608,7000000008,10s,Jeju-do,2020-03-27,13
+1248,7000000009,20s,Jeju-do,Jeju-do,overseas inflow,,,2720,7000000009,20s,Jeju-do,2020-03-29,13
+1249,7000000010,20s,Jeju-do,Jeju-do,overseas inflow,,,2960,7000000010,20s,Jeju-do,2020-04-03,14
+1250,7000000012,20s,Jeju-do,Jeju-do,overseas inflow,,,2962,7000000012,20s,Jeju-do,2020-04-03,14
+1251,7000000015,30s,Jeju-do,Jeju-do,overseas inflow,,,3965,7000000015,30s,Jeju-do,2020-05-30,22
+1252,7000000016,,Jeju-do,Jeju-do,overseas inflow,,,4635,7000000016,,Jeju-do,2020-06-16,25
+1253,1000000031,,Incheon,Jung-gu,,,airport,210,1000000031,50s,Songpa-gu,2020-02-22,8
+1254,1000000034,,Incheon,Jung-gu,,,airport,341,1000000034,20s,Songpa-gu,2020-02-24,9
+1255,1000000035,,Seoul,Yeongdeungpo-gu,,,airport,363,1000000035,30s,etc,2020-02-25,9
+1256,1000000199,,Gyeonggi-do,Gimpo-si,,,airport,1832,1000000199,40s,Yangcheon-gu,2020-03-10,11
+1257,1000000318,,Incheon,Jung-gu,,,airport,2359,1000000318,20s,Jungnang-gu,2020-03-21,12
+1258,1000000518,,Incheon,Jung-gu,,,airport,2992,1000000518,20s,Songpa-gu,2020-04-03,14
+1259,1000000682,,Seoul,Gangseo-gu,,,airport,3470,1000000682,,Seongdong-gu,2020-05-10,19
+1260,1000000711,,Incheon,Jung-gu,,,airport,3553,1000000711,,Gangdong-gu,2020-05-13,20
+1261,1100000094,,Seoul,Gangseo-gu,,,airport,1931,1100000094,40s,etc,2020-03-12,11
+1262,1100000094,,Busan,Gangseo-gu,,,airport,1931,1100000094,40s,etc,2020-03-12,11
+1263,1400000039,,Seoul,Gangseo-gu,,,airport,2231,1400000039,60s,Gyeyang-gu,2020-03-19,12
+1264,1400000041,,Incheon,Jung-gu,,,airport,2397,1400000041,50s,Bupyeong-gu,2020-03-23,13
+1265,2000000009,,Incheon,Namdong-gu,,,airport,21,2000000009,50s,Siheung-si,2020-02-09,6
+1266,6002000052,,Incheon,Jung-gu,,,airport,4958,6002000052,0s,Gyeongju-si,2020-06-25,26
+1267,6011000001,,Incheon,Yeonsu-gu,,,airport,118,6011000001,60s,Andong-si,2020-02-21,8
+1268,6011000002,,Incheon,Yeonsu-gu,,,airport,119,6011000002,60s,Andong-si,2020-02-21,8
+1269,6011000004,,Incheon,Yeonsu-gu,,,airport,120,6011000004,60s,Andong-si,2020-02-21,8
+1270,6011000005,,Incheon,Yeonsu-gu,,,airport,121,6011000005,60s,Andong-si,2020-02-21,8
+1271,6011000006,,Incheon,Yeonsu-gu,,,airport,153,6011000006,60s,Andong-si,2020-02-22,8
+1272,6014000001,,Incheon,Namdong-gu,,,airport,154,6014000001,60s,Yeongju-si,2020-02-22,8
