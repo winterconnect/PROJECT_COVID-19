@@ -3,7 +3,7 @@ COVID-19 Analysis
 
 
 
-목
+목차
 ----------
 > kaggle의 covid-19의 국내 발병/전염 상황 데이터를 이용하여 대한민국의 covid-19감염 현황 파악
 > (https://www.kaggle.com/kimjihoo/coronavirusdataset)
