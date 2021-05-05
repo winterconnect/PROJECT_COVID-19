@@ -6,10 +6,12 @@ COVID-19의 국내 발병과 전염 상황 데이터를 이용하여 감염 추�
 - 기간: 2020.7.3 - 2020.7.13 (8인 프로젝트)
 - 역할: EDA, 시각화, Research Question 1번 도출
 
+
 ### 2. 개발환경
 - Jupyter Notebook(Ubuntu18.04)
 - Visual Studio Code
 - Google Drive
+
 
 ### 3.  진행과정
 
