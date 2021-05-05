@@ -51,8 +51,6 @@ COVID-19의 국내 발병과 전염 상황 데이터를 이용하여 감염 추�
 
 
 #### 5) 최종 인사이트 도출
-<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/5_research1_conclusion.png?raw=true">
-<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/6_research2_conclusion.png?raw=true">
 <img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/7_final_conclusion.png?raw=true">
                                                                                                                              
 
