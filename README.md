@@ -21,9 +21,15 @@ COVID-19의 국내 발병과 전염 상황 데이터를 이용하여 감염 추�
 
 ### 3.  진행과정
 
+<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/1_process1.png?raw=true">
+<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/2_process2.png?raw=true">
+
 #### 1) 데이터 기초분석
 
 - Code Book 작성
+<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/3_codebook.png?raw=true">
+
+
 - DB 적재 및 클라우드 접속 환경 구축 (Oracle SQL)
 
 #### 2) EDA
@@ -31,6 +37,8 @@ COVID-19의 국내 발병과 전염 상황 데이터를 이용하여 감염 추�
 #### 3) 데이터시각화
 
 - 시각화 그래프를 통한 이상치 확인
+
+<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/4_visualization.png?raw=true">
 
 - 다양한 시각화 방법 사용(Boxplot, Histogram, Pieplot, Bar Graph, Folium, Line Graph, Heat Map)
 
@@ -43,7 +51,10 @@ COVID-19의 국내 발병과 전염 상황 데이터를 이용하여 감염 추�
 
 
 #### 5) 최종 인사이트 도출
-
+<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/5_research1_conclusion.png?raw=true">
+<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/6_research2_conclusion.png?raw=true">
+<img src ="https://github.com/winterconnect/Project_Covid19_Data_Analysis/blob/master/img/7_final_conclusion.png?raw=true">
+                                                                                                                             
 
 
 
